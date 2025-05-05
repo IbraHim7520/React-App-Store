@@ -10,7 +10,8 @@ const Router = createBrowserRouter([
         path: '/',
         Component:Root,
         children: [
-            {index:'/home', Component:Home}
+            {index:'/home', Component:Home},
+            {path:'/*', element:<p>There is no page</p>}
         ]
     },
     {
@@ -20,6 +21,10 @@ const Router = createBrowserRouter([
     {
         path: "/user-signup",
         Component:Signup
+    },
+    {
+        path:'/*',
+        element: <p>This is a error page</p>
     }
 ])
 export default Router;
