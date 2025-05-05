@@ -24,7 +24,7 @@ const Nav = () => {
           </div>
          <div className='flex gap-5 items-center'>
          <img src={logo} className='w-12'></img>
-         <NavLink to={"/"} className='text-xl md:text-2xl font-bold'>AppStore</NavLink>
+         <NavLink to={"/"} className='text-xl md:text-2xl font-bold'>App<span className='text-blue-500'>Nest</span></NavLink>
          </div>
         </div>
 
