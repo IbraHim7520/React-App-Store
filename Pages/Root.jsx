@@ -1,13 +1,16 @@
 import React from 'react';
-import Nav from '../Components/Nav';
+import Nav from "../Components/Nav"
+import Footer from "../Components/Footer"
 import { Outlet } from 'react-router';
-import Footer from '../Components/Footer'
-
 const Root = () => {
     return (
-        <div>
+        <div className='w-full overflow-x-hidden'>
             <Nav></Nav>
-            <Outlet></Outlet>
+            <div className='min-h-[calc(100vh-250px)]'>
+            <Outlet>
+
+            </Outlet>
+            </div>
             <Footer></Footer>
         </div>
     );
