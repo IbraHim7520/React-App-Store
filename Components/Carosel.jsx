@@ -6,13 +6,13 @@ import { motion } from 'framer-motion';
 
 const Carosel = () => {
   return ( 
-    <div className='grid grid-cols-1 justify-items-center md:flex w-full  justify-center items-center'>
-        <div className='w-2/4'>
+    <div className='grid grid-cols-1  justify-items-center md:flex  w-full  justify-center items-center'>
+        <div className='w-2/4 '>
         <motion.div
                 initial={{ opacity: 0, y: 30 }}   
                 animate={{ opacity: 1, y: 0 }}       
                 transition={{ duration: 0.9, ease: "easeIn" }} 
-                className="text-start p-5 mt-3"
+                className="md:text-start text-center p-5 mt-3"
             >
             <h1 className='text-4xl md:text-5xl font-bold mt-4'>App<span className='text-blue-500'>Nest</span></h1>
             <p className='text-xl md:text-2xl font-semibold mt-2'>Find and Download the Best Free and Premium Apps All in One Place</p>

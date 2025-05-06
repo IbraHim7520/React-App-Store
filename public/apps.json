@@ -1,0 +1,3164 @@
+[
+  {
+    "id": "app001",
+    "name": "Facebook",
+    "developer": "Mcdonald, Collins and Morgan",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s",
+    "banner": "https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg",
+    "downloads": 244494343,
+    "category": "Social",
+    "rating": 4.6,
+    "description": "Facebook is a top-rated app used globally for gaming.",
+    "features": [
+      "Live chat",
+      "Interactive UI",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "gmitchell",
+        "rating": 5,
+        "comment": "Manage leg bad phone test although rise."
+      },
+      {
+        "user": "ymcdaniel",
+        "rating": 4,
+        "comment": "Situation loss sense discuss performance onto."
+      },
+      {
+        "user": "chris72",
+        "rating": 3,
+        "comment": "Energy should cut gun."
+      },
+      {
+        "user": "rosscaroline",
+        "rating": 4,
+        "comment": "Daughter car range even talk."
+      },
+      {
+        "user": "ellissharon",
+        "rating": 3,
+        "comment": "Concern human risk what here family."
+      },
+      {
+        "user": "wyattsmith",
+        "rating": 4,
+        "comment": "Life effect prepare value tax manage trade."
+      },
+      {
+        "user": "areid",
+        "rating": 4,
+        "comment": "Performance good yeah though chance."
+      }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "Instagram",
+    "developer": "Allen, Logan and Herring",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png",
+    "banner": "https://images.macrumors.com/t/4f7q_1wFXgE7og9et0c2PDsOCSk=/2250x/article-new/2021/03/Instagram-Feature-1.jpg",
+    "downloads": 882627628,
+    "category": "Social",
+    "rating": 4.2,
+    "description": "Instagram is a top-rated app used globally for entertainment.",
+    "features": [
+      "Interactive UI",
+      "Dark mode",
+      "HD video",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "osmith",
+        "rating": 3,
+        "comment": "Although modern movement artist."
+      },
+      {
+        "user": "douglasdean",
+        "rating": 5,
+        "comment": "How whom role near social up eat dream."
+      },
+      {
+        "user": "dixonvalerie",
+        "rating": 4,
+        "comment": "Although story purpose tree use hard."
+      },
+      {
+        "user": "patriciagilbert",
+        "rating": 5,
+        "comment": "Region foreign line into."
+      },
+      {
+        "user": "kristin11",
+        "rating": 4,
+        "comment": "Check care state ready moment central garden."
+      }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "WhatsApp",
+    "developer": "Brown-Hanson",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png",
+    "banner": "https://cdn6.aptoide.com/imgs/c/7/6/c7644008f58970f3d495d2d68958652a_fgraphic.png",
+    "downloads": 747502601,
+    "category": "Communication",
+    "rating": 4.1,
+    "description": "WhatsApp is a top-rated app used globally for communication.",
+    "features": [
+      "Push notifications",
+      "Cloud sync",
+      "Dark mode",
+      "HD video"
+    ],
+    "reviews": [
+      {
+        "user": "sthompson",
+        "rating": 5,
+        "comment": "Treatment safe act generation project."
+      },
+      {
+        "user": "mathewsgeorge",
+        "rating": 4,
+        "comment": "Break family bed deal others majority person national."
+      },
+      {
+        "user": "vanessa83",
+        "rating": 4,
+        "comment": "Support center story tend nor."
+      },
+      {
+        "user": "catherinechan",
+        "rating": 5,
+        "comment": "Rise other fill fact two."
+      },
+      {
+        "user": "christopherhaley",
+        "rating": 5,
+        "comment": "Support information water."
+      }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "YouTube",
+    "developer": "Cook-Conner",
+    "thumbnail": "https://yt3.googleusercontent.com/Bg5wS82KGryRmcsn1YbPThtbXoTmj2XJ9_7LmuE2RF6wbKJBkovfRypbSz6UD3gEu_nHiwGZtQ=s900-c-k-c0x00ffffff-no-rj",
+    "banner": "https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500",
+    "downloads": 814409721,
+    "category": "Video Players",
+    "rating": 4.9,
+    "description": "YouTube is a top-rated app used globally for communication.",
+    "features": [
+      "Data backup",
+      "Cloud sync",
+      "Live chat",
+      "HD video"
+    ],
+    "reviews": [
+      {
+        "user": "bbautista",
+        "rating": 5,
+        "comment": "Sense full letter industry traditional new manage."
+      },
+      {
+        "user": "jimmy56",
+        "rating": 4,
+        "comment": "Avoid night establish stage each."
+      },
+      {
+        "user": "taylorrichard",
+        "rating": 4,
+        "comment": "Economy entire truth."
+      },
+      {
+        "user": "jennifergraham",
+        "rating": 4,
+        "comment": "People near ever parent."
+      }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "Snapchat",
+    "developer": "Hernandez-Bennett",
+    "thumbnail": "https://yt3.googleusercontent.com/3LXX8rQiWxvIFLBcXEw1gNtE_nz6XDW_AdHN4J9zvzQz9u3_6MBPx8WhBeZ0d6uls0yVRMsl=s900-c-k-c0x00ffffff-no-rj",
+    "banner": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/library/wp-content/uploads/2017/01/snapchat-specs.jpg",
+    "downloads": 498586846,
+    "category": "Social",
+    "rating": 4.0,
+    "description": "Snapchat is a top-rated app used globally for productivity.",
+    "features": [
+      "Cloud sync",
+      "Data backup",
+      "HD video",
+      "Live chat",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "davidmullins",
+        "rating": 5,
+        "comment": "Require might instead."
+      },
+      {
+        "user": "carl19"
+      },
+      {
+        "user": "tammy05",
+        "rating": 3,
+        "comment": "Send yourself reason respond."
+      },
+      {
+        "user": "dgonzalez",
+        "rating": 4,
+        "comment": "Situation account fine north."
+      },
+      {
+        "user": "egarza",
+        "rating": 5,
+        "comment": "Claim describe visit environmental avoid."
+      }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "TikTok",
+    "developer": "White, Johnson and Williams",
+    "thumbnail": "https://yt3.googleusercontent.com/n2F5svHzfGDDEIRWDKt6WF_jeJqwzba7NTKx5lbVzNVa9lKnK5iVT1pH824C-g76IRzWR1_hjA=s900-c-k-c0x00ffffff-no-rj",
+    "banner": "https://cdn.prod.website-files.com/5c29380b1110ec92a203aa84/5dede154cad2171df5e07412_image.png",
+    "downloads": 505709394,
+    "category": "Video Players",
+    "rating": 4.0,
+    "description": "TikTok is a top-rated app used globally for productivity.",
+    "features": [
+      "Live chat",
+      "Data backup",
+      "HD video",
+      "Interactive UI",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "hshelton",
+        "rating": 3,
+        "comment": "Movie per each national heavy first class."
+      },
+      {
+        "user": "ibowen",
+        "rating": 3,
+        "comment": "Mother full there career watch break attack."
+      },
+      {
+        "user": "ashleygrant",
+        "rating": 5,
+        "comment": "Figure religious even might speech total owner reach."
+      },
+      {
+        "user": "cwilliams",
+        "rating": 4,
+        "comment": "Key as civil technology discussion."
+      },
+      {
+        "user": "debbie67",
+        "rating": 3,
+        "comment": "Activity morning case read nearly white."
+      },
+      {
+        "user": "brian81",
+        "rating": 3,
+        "comment": "Already PM fast four television cell."
+      },
+      {
+        "user": "matthew22",
+        "rating": 4,
+        "comment": "Big news political already."
+      }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "Spotify",
+    "developer": "Soto, Morgan and Black",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslcO84eWfXP_4Ucd4Yfz6B8uqJmHaTo0iTw&s",
+    "banner": "https://www.scdn.co/i/_global/open-graph-default.png",
+    "downloads": 91116849,
+    "category": "Music",
+    "rating": 4.2,
+    "description": "Spotify is a top-rated app used globally for communication.",
+    "features": [
+      "Push notifications",
+      "Dark mode",
+      "Data backup",
+      "Offline mode",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "gonzalezlisa",
+        "rating": 5,
+        "comment": "Attack south according them sit choice."
+      },
+      {
+        "user": "timothylopez",
+        "rating": 3,
+        "comment": "Lawyer move blue cell area."
+      },
+      {
+        "user": "samanthagraham",
+        "rating": 3,
+        "comment": "Even film consumer late change candidate."
+      },
+      {
+        "user": "deannafrost",
+        "rating": 3,
+        "comment": "Skill several environmental partner."
+      },
+      {
+        "user": "aevans",
+        "rating": 5,
+        "comment": "Notice research machine improve mean truth."
+      }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "Netflix",
+    "developer": "Nguyen-Cooper",
+    "thumbnail": "https://static.vecteezy.com/system/resources/previews/017/396/804/non_2x/netflix-mobile-application-logo-free-png.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSDSITzuwMVXCSqyu0oDxIe6XTET9p9y8jA&s",
+    "downloads": 68789743,
+    "category": "Video Players",
+    "rating": 4.2,
+    "description": "Netflix is a top-rated app used globally for entertainment.",
+    "features": [
+      "Push notifications",
+      "Interactive UI",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "jameskrause",
+        "rating": 5,
+        "comment": "Law head several surface town red factor really."
+      },
+      {
+        "user": "kjackson",
+        "rating": 4,
+        "comment": "So bring woman wonder hold."
+      },
+      {
+        "user": "crystalvaughn",
+        "rating": 3,
+        "comment": "Customer write mention animal keep put popular."
+      },
+      {
+        "user": "browndaniel",
+        "rating": 5,
+        "comment": "Teacher send culture field rate would involve."
+      },
+      {
+        "user": "zferguson",
+        "rating": 3,
+        "comment": "Response message eat too."
+      },
+      {
+        "user": "cle",
+        "rating": 5,
+        "comment": "Clear actually race can bad true image."
+      },
+      {
+        "user": "robert67",
+        "rating": 5,
+        "comment": "Apply meet bill rule animal church physical."
+      }
+    ]
+  },
+  {
+    "id": "app009",
+    "name": "Twitter",
+    "developer": "Stewart-Garcia",
+    "thumbnail": "https://store-images.s-microsoft.com/image/apps.5075.9007199266244427.c75d2ced-a383-40dc-babd-1ad2ceb13c86.f329a73d-1ae8-4445-aa4c-bf40f3c5d62d",
+    "banner": "https://pngimg.com/d/twitter_PNG31.png",
+    "downloads": 181669602,
+    "category": "Social",
+    "rating": 4.5,
+    "description": "Twitter is a top-rated app used globally for entertainment.",
+    "features": [
+      "Offline mode",
+      "Live chat",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "vnash",
+        "rating": 4,
+        "comment": "Rather responsibility above compare vote show morning."
+      },
+      {
+        "user": "cookchristopher",
+        "rating": 4,
+        "comment": "Star sense data."
+      },
+      {
+        "user": "haley92",
+        "rating": 5,
+        "comment": "Admit sometimes evidence student help they power."
+      },
+      {
+        "user": "serranomelissa",
+        "rating": 5,
+        "comment": "Later big rather wrong."
+      }
+    ]
+  },
+  {
+    "id": "app010",
+    "name": "Telegram",
+    "developer": "Nunez-Costa",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png",
+    "banner": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2024/05/Parents-guide-telegram-blog-01.webp",
+    "downloads": 624022070,
+    "category": "Communication",
+    "rating": 4.0,
+    "description": "Telegram is a top-rated app used globally for communication.",
+    "features": [
+      "Secure login",
+      "Push notifications",
+      "Live chat",
+      "Cloud sync"
+    ],
+    "reviews": [
+      {
+        "user": "jhuber",
+        "rating": 5,
+        "comment": "He success chance gas possible dinner."
+      },
+      {
+        "user": "abryant",
+        "rating": 3,
+        "comment": "Control agency today society deal wish."
+      },
+      {
+        "user": "conniecampbell",
+        "rating": 4,
+        "comment": "Tell exactly prepare movement happy southern few life."
+      },
+      {
+        "user": "julia13",
+        "rating": 4,
+        "comment": "Newspaper add significant source plant tonight."
+      },
+      {
+        "user": "comptonbrian",
+        "rating": 4,
+        "comment": "In it everything laugh which."
+      },
+      {
+        "user": "aaron17",
+        "rating": 4,
+        "comment": "Top camera guy federal social car herself recently."
+      },
+      {
+        "user": "alice25",
+        "rating": 4,
+        "comment": "Positive manage sit laugh exist likely."
+      }
+    ]
+  },
+  {
+    "id": "app011",
+    "name": "Zoom",
+    "developer": "Wells PLC",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-uiiYuy4QKYcMvQ4b-wC2EJLgjXGD6CRYQ&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiq4a3dgVCW1woDVOEkxKUCftnzN3Gtxx2FA&s",
+    "downloads": 225773659,
+    "category": "Communication",
+    "rating": 4.8,
+    "description": "Zoom is a top-rated app used globally for gaming.",
+    "features": [
+      "Offline mode",
+      "Dark mode",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "jeffreycastro",
+        "rating": 3,
+        "comment": "Song population majority someone beyond black."
+      },
+      {
+        "user": "stephanie89",
+        "rating": 4,
+        "comment": "Possible sound system source instead style."
+      },
+      {
+        "user": "huntcolton",
+        "rating": 5,
+        "comment": "Worry understand blue throughout."
+      },
+      {
+        "user": "christopherjenkins",
+        "rating": 3,
+        "comment": "Wait wide continue gas together system."
+      },
+      {
+        "user": "lancelee",
+        "rating": 5,
+        "comment": "When sense letter approach field side."
+      },
+      {
+        "user": "nicholaslowe",
+        "rating": 5,
+        "comment": "Its where miss push yet heavy."
+      }
+    ]
+  },
+  {
+    "id": "app012",
+    "name": "Google Maps",
+    "developer": "Smith, Beard and Conrad",
+    "thumbnail": "https://uupload.ir/files/zbme_gmaps.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9IXIvYBueae67LK8bKVs6rKXt_atiamUyQ&s",
+    "downloads": 305941892,
+    "category": "Travel & Local",
+    "rating": 3.7,
+    "description": "Google Maps is a top-rated app used globally for communication.",
+    "features": [
+      "Interactive UI",
+      "Push notifications",
+      "Offline mode",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "djohnson",
+        "rating": 5,
+        "comment": "Interview page professional plant moment go."
+      },
+      {
+        "user": "kjohnson",
+        "rating": 3,
+        "comment": "Positive direction sign dinner better cover."
+      },
+      {
+        "user": "alisonmurphy",
+        "rating": 3,
+        "comment": "Try blue training early mother small step law."
+      },
+      {
+        "user": "wernerpeter",
+        "rating": 5,
+        "comment": "Order learn how."
+      },
+      {
+        "user": "umorales",
+        "rating": 5,
+        "comment": "Change long treat foreign."
+      }
+    ]
+  },
+  {
+    "id": "app013",
+    "name": "Gmail",
+    "developer": "Butler, Chandler and Contreras",
+    "thumbnail": "https://downloadr2.apkmirror.com/wp-content/uploads/2020/10/91/5f9b61e42640e.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaV7UuCtcZ0pnz7hFUQKCI_K2zlQGDG5DKUQ&s",
+    "downloads": 680522390,
+    "category": "Communication",
+    "rating": 3.6,
+    "description": "Gmail is a top-rated app used globally for learning.",
+    "features": [
+      "Multi-language",
+      "Interactive UI",
+      "HD video",
+      "Dark mode",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "allenchristopher",
+        "rating": 5,
+        "comment": "Step score from six."
+      },
+      {
+        "user": "priceseth",
+        "rating": 4,
+        "comment": "Less subject vote view too my return."
+      },
+      {
+        "user": "hcantrell",
+        "rating": 4,
+        "comment": "City drop take how."
+      },
+      {
+        "user": "hwilliams",
+        "rating": 3,
+        "comment": "Community business clear effect."
+      }
+    ]
+  },
+  {
+    "id": "app014",
+    "name": "LinkedIn",
+    "developer": "Sweeney LLC",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PAS27Zyh4H1OX6ZNvbhNLE62dJfF7vsQ5A&s",
+    "downloads": 360095086,
+    "category": "Business",
+    "rating": 3.6,
+    "description": "LinkedIn is a top-rated app used globally for learning.",
+    "features": [
+      "Data backup",
+      "Interactive UI",
+      "Offline mode",
+      "Cloud sync"
+    ],
+    "reviews": [
+      {
+        "user": "fraziernicholas",
+        "rating": 5,
+        "comment": "Whose spring life may seven."
+      },
+      {
+        "user": "sclayton",
+        "rating": 5,
+        "comment": "Art total rule agreement church."
+      },
+      {
+        "user": "qosborne",
+        "rating": 4,
+        "comment": "Finally responsibility identify necessary fine alone."
+      },
+      {
+        "user": "ccox",
+        "rating": 4,
+        "comment": "Their owner particular remain spring."
+      },
+      {
+        "user": "lwelch",
+        "rating": 3,
+        "comment": "Even six traditional would enjoy deep deep."
+      },
+      {
+        "user": "malloryrobinson",
+        "rating": 5,
+        "comment": "Build loss story line water physical window."
+      }
+    ]
+  },
+  {
+    "id": "app015",
+    "name": "Pinterest",
+    "developer": "Clark, Sullivan and Smith",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHH6aoXJfdAScGlfLHNln2tjqUwkCDbxt8Q&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOU2Ucp1V273g9xkcQ5klsrQuoi3cESpncw&s",
+    "downloads": 573080978,
+    "category": "Lifestyle",
+    "rating": 4.3,
+    "description": "Pinterest is a top-rated app used globally for learning.",
+    "features": [
+      "Dark mode",
+      "Data backup",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "ucampbell",
+        "rating": 4,
+        "comment": "Respond organization do."
+      },
+      {
+        "user": "williamsamanda",
+        "rating": 4,
+        "comment": "Face light about push their move."
+      },
+      {
+        "user": "fischeranita",
+        "rating": 5,
+        "comment": "Cost person road share nearly."
+      },
+      {
+        "user": "nicholas43",
+        "rating": 4,
+        "comment": "Drug investment his support."
+      }
+    ]
+  },
+  {
+    "id": "app016",
+    "name": "Reddit",
+    "developer": "Anderson-Wheeler",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/250px-Reddit_Logo_Icon.svg.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStvgRWmQnd4s3yv3ksVYMYMNQtmaWjDnf8Zg&s",
+    "downloads": 833835831,
+    "category": "Social",
+    "rating": 4.4,
+    "description": "Reddit is a top-rated app used globally for productivity.",
+    "features": [
+      "Live chat",
+      "Push notifications",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "karla16",
+        "rating": 4,
+        "comment": "Partner door everything away east."
+      },
+      {
+        "user": "hunthoward",
+        "rating": 5,
+        "comment": "See than be same religious lot."
+      },
+      {
+        "user": "aaron05",
+        "rating": 5,
+        "comment": "Born consider radio house upon action over."
+      },
+      {
+        "user": "gallowaysusan",
+        "rating": 4,
+        "comment": "Church common big environment."
+      },
+      {
+        "user": "flowerssean",
+        "rating": 4,
+        "comment": "From include any west every manage."
+      },
+      {
+        "user": "stevenrose",
+        "rating": 3,
+        "comment": "Born treat kind discover."
+      }
+    ]
+  },
+  {
+    "id": "app017",
+    "name": "Amazon",
+    "developer": "Johnson Group",
+    "thumbnail": "https://st3.depositphotos.com/1001860/16375/i/450/depositphotos_163757632-stock-photo-amazon-logo-on-a-white.jpg",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLFByHyQugaRKTQgDwOHePsB8TpRMazAj0A&s",
+    "downloads": 846442975,
+    "category": "Shopping",
+    "rating": 5.0,
+    "description": "Amazon is a top-rated app used globally for gaming.",
+    "features": [
+      "Multi-language",
+      "Offline mode",
+      "Dark mode",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "zsingleton",
+        "rating": 3,
+        "comment": "Congress consider four work there stop president."
+      },
+      {
+        "user": "heatherhunter",
+        "rating": 4,
+        "comment": "Although tough company product require central remain."
+      },
+      {
+        "user": "dgraham",
+        "rating": 3,
+        "comment": "Side in spend raise or impact."
+      },
+      {
+        "user": "muellerjane",
+        "rating": 3,
+        "comment": "Special where weight base himself husband conference."
+      }
+    ]
+  },
+  {
+    "id": "app018",
+    "name": "eBay",
+    "developer": "Prince, Davis and Russell",
+    "thumbnail": "https://cdn6.aptoide.com/imgs/4/6/6/466952a08e74566a01b49c94f7b8a8fe_icon.png",
+    "banner": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/EBay_logo.svg/1200px-EBay_logo.svg.png",
+    "downloads": 105286424,
+    "category": "Shopping",
+    "rating": 3.7,
+    "description": "eBay is a top-rated app used globally for learning.",
+    "features": [
+      "Live chat",
+      "Cloud sync",
+      "Secure login",
+      "Dark mode",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "hintonfelicia",
+        "rating": 3,
+        "comment": "Book example collection check sport participant during."
+      },
+      {
+        "user": "dominiquejohnson",
+        "rating": 3,
+        "comment": "Far arrive sister myself special."
+      },
+      {
+        "user": "danielsmith",
+        "rating": 5,
+        "comment": "Stock my decade yes school increase place."
+      },
+      {
+        "user": "dallen",
+        "rating": 3,
+        "comment": "After that sit."
+      },
+      {
+        "user": "rossashley",
+        "rating": 4,
+        "comment": "Those read none training smile."
+      }
+    ]
+  },
+  {
+    "id": "app019",
+    "name": "PayPal",
+    "developer": "Peterson, Aguirre and Dennis",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxVOphxn40jmX2Zcbvf3nY1e4p6OlQrYvrg&s",
+    "banner": "https://www.paypalobjects.com/marketing/web23/uk/en/ppe/homepage-consumer/meta_size-all.jpg",
+    "downloads": 134265394,
+    "category": "Finance",
+    "rating": 4.5,
+    "description": "PayPal is a top-rated app used globally for gaming.",
+    "features": [
+      "Push notifications",
+      "Interactive UI",
+      "Offline mode",
+      "HD video",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "vdavis",
+        "rating": 4,
+        "comment": "Will history fund others agree push."
+      },
+      {
+        "user": "pricesara",
+        "rating": 5,
+        "comment": "Sing theory vote suddenly address nor practice there."
+      },
+      {
+        "user": "leerebecca",
+        "rating": 3,
+        "comment": "Wait wall magazine note."
+      },
+      {
+        "user": "allisonkoch",
+        "rating": 3,
+        "comment": "Full PM go song site expert."
+      },
+      {
+        "user": "tstephenson",
+        "rating": 3,
+        "comment": "Girl letter yes special."
+      }
+    ]
+  },
+  {
+    "id": "app020",
+    "name": "Venmo",
+    "developer": "Knight, Rodriguez and Parker",
+    "thumbnail": "https://img.utdstc.com/icon/e85/42b/e8542b18623e46fd746f3c4e623d503aafd1acea0de7f8ba62f2deedc67552f3:200",
+    "banner": "https://qodeinteractive.com/magazine/wp-content/uploads/2023/05/Venmo-Logo.jpg",
+    "downloads": 750444419,
+    "category": "Finance",
+    "rating": 4.6,
+    "description": "Venmo is a top-rated app used globally for communication.",
+    "features": [
+      "Cloud sync",
+      "Push notifications",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "lewismackenzie",
+        "rating": 4,
+        "comment": "Lot professor story several thought."
+      },
+      {
+        "user": "stephanielutz",
+        "rating": 4,
+        "comment": "See history age recent evening job benefit."
+      },
+      {
+        "user": "sawyerkevin",
+        "rating": 3,
+        "comment": "Their not treatment how involve begin."
+      },
+      {
+        "user": "hhorton",
+        "rating": 4,
+        "comment": "Able dark conference nearly."
+      },
+      {
+        "user": "stewartrebecca",
+        "rating": 3,
+        "comment": "Debate west note car size."
+      },
+      {
+        "user": "colleen69",
+        "rating": 3,
+        "comment": "Fact level open."
+      }
+    ]
+  },
+  {
+    "id": "app021",
+    "name": "Uber",
+    "developer": "Charles, Williams and Lewis",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLYn6hSU1G4_3AFE6Rs8FJT9F-qchRY2DnA&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8WHZkc0i3BRTttlPGqORWBeSNFtW3kkjqRQ&s",
+    "downloads": 31993776,
+    "category": "Travel",
+    "rating": 4.6,
+    "description": "Uber is a top-rated app used globally for learning.",
+    "features": [
+      "Live chat",
+      "Multi-language",
+      "HD video",
+      "Cloud sync"
+    ],
+    "reviews": [
+      {
+        "user": "fitzpatrickphillip",
+        "rating": 3,
+        "comment": "Development better address student walk quality respond."
+      },
+      {
+        "user": "hansonashley",
+        "rating": 4,
+        "comment": "Must skill resource suggest reality."
+      },
+      {
+        "user": "gardnersteven",
+        "rating": 4,
+        "comment": "Thus current white bank member perform home out."
+      },
+      {
+        "user": "tyleraustin",
+        "rating": 5,
+        "comment": "American box ahead despite gas interview control."
+      },
+      {
+        "user": "edwardowens",
+        "rating": 5,
+        "comment": "Lawyer class so gun star east."
+      },
+      {
+        "user": "olivia38",
+        "rating": 5,
+        "comment": "Yet commercial the its public."
+      },
+      {
+        "user": "isanchez",
+        "rating": 5,
+        "comment": "Force grow use free."
+      }
+    ]
+  },
+  {
+    "id": "app022",
+    "name": "Lyft",
+    "developer": "Williams, Johnson and Becker",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_f8eht9LuzCPFgph999UbAX9PQmq3zB3mg&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWm-6iBSPOX75cDf2CIr7LTn4aa2HLeaeQSA&s",
+    "downloads": 788093121,
+    "category": "Travel",
+    "rating": 3.5,
+    "description": "Lyft is a top-rated app used globally for entertainment.",
+    "features": [
+      "Multi-language",
+      "Dark mode",
+      "Offline mode",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "brendabenjamin",
+        "rating": 3,
+        "comment": "Pass middle lot site worker."
+      },
+      {
+        "user": "hodgeslawrence",
+        "rating": 4,
+        "comment": "Hotel around ever movie maybe."
+      },
+      {
+        "user": "jessicajones",
+        "rating": 4,
+        "comment": "Whom million her reason suggest protect bring."
+      },
+      {
+        "user": "thomasdaniel",
+        "rating": 5,
+        "comment": "Likely book bar hour phone."
+      },
+      {
+        "user": "robertarnold",
+        "rating": 3,
+        "comment": "Factor along business city whom I."
+      }
+    ]
+  },
+  {
+    "id": "app023",
+    "name": "Airbnb",
+    "developer": "Jones, Phillips and Patrick",
+    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/50/68/66506837-ae60-a9b6-6be7-ec4502b94185/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/1200x630wa.png",
+    "banner": "https://logos-world.net/wp-content/uploads/2020/10/Airbnb-Logo-2014.png",
+    "downloads": 279049787,
+    "category": "Travel",
+    "rating": 4.6,
+    "description": "Airbnb is a top-rated app used globally for entertainment.",
+    "features": [
+      "Cloud sync",
+      "Data backup",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "washingtondavid",
+        "rating": 4,
+        "comment": "Tax decision drop among program reduce."
+      },
+      {
+        "user": "ojames",
+        "rating": 5,
+        "comment": "Home state believe property."
+      },
+      {
+        "user": "edwardfischer",
+        "rating": 3,
+        "comment": "Candidate loss picture."
+      },
+      {
+        "user": "robert70",
+        "rating": 4,
+        "comment": "Learn wrong where."
+      },
+      {
+        "user": "munozgeorge",
+        "rating": 5,
+        "comment": "Economic difficult include analysis theory truth."
+      },
+      {
+        "user": "sullivanmarcus",
+        "rating": 5,
+        "comment": "Leg light kid yet face themselves."
+      },
+      {
+        "user": "john59",
+        "rating": 4,
+        "comment": "Debate all reach word foot smile church."
+      }
+    ]
+  },
+  {
+    "id": "app024",
+    "name": "Dropbox",
+    "developer": "Mann, West and Brown",
+    "thumbnail": "https://yt3.googleusercontent.com/pz9t78GdesHdf-KtYqoXVWLNlYApCZxTKxH6a5P76kYbdkWyukPPVAswDeqkiaAhxWPA5CHueQ=s900-c-k-c0x00ffffff-no-rj",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWMPScDoSiICFwa3i0KJ1XutR05AREeCJmA&s",
+    "downloads": 555991396,
+    "category": "Productivity",
+    "rating": 5.0,
+    "description": "Dropbox is a top-rated app used globally for communication.",
+    "features": [
+      "Multi-language",
+      "Dark mode",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "william29",
+        "rating": 5,
+        "comment": "Study wait perhaps campaign so."
+      },
+      {
+        "user": "cherylfuentes",
+        "rating": 5,
+        "comment": "Yourself still situation majority behind defense keep."
+      },
+      {
+        "user": "tristangarner",
+        "rating": 5,
+        "comment": "Your tree cultural front."
+      },
+      {
+        "user": "nelsonkenneth",
+        "rating": 4,
+        "comment": "Let office challenge generation card not."
+      },
+      {
+        "user": "michaelmorrison",
+        "rating": 3,
+        "comment": "Would window other TV material often can."
+      },
+      {
+        "user": "krodgers",
+        "rating": 3,
+        "comment": "Onto enjoy grow rate quality country."
+      },
+      {
+        "user": "davismorgan",
+        "rating": 5,
+        "comment": "Brother remain about must official war positive."
+      }
+    ]
+  },
+  {
+    "id": "app025",
+    "name": "Skype",
+    "developer": "Macias-Kirby",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1175152938064285696/m4EqfT9L_400x400.jpg",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeU1jwpw851-Dgc1scssrCZAhBQUY-Y3WsvA&s",
+    "downloads": 395434775,
+    "category": "Communication",
+    "rating": 4.4,
+    "description": "Skype is a top-rated app used globally for communication.",
+    "features": [
+      "Live chat",
+      "Cloud sync",
+      "Data backup",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "kanthony",
+        "rating": 5,
+        "comment": "Clear trip among near generation though never."
+      },
+      {
+        "user": "jeremypark",
+        "rating": 4,
+        "comment": "Station agree good kid."
+      },
+      {
+        "user": "sarawilliams",
+        "rating": 3,
+        "comment": "Discuss write future factor guess least."
+      },
+      {
+        "user": "alvarezpeter",
+        "rating": 4,
+        "comment": "Huge might have give adult bank."
+      }
+    ]
+  },
+  {
+    "id": "app026",
+    "name": "Slack",
+    "developer": "Kennedy, Gray and Bennett",
+    "thumbnail": "https://media.licdn.com/dms/image/v2/D4E0BAQFqWumR4CVtLg/company-logo_200_200/company-logo_200_200/0/1720037016756/tiny_spec_inc_logo?e=2147483647&v=beta&t=mnU-Yn6AUZIgScSR0kpmVhW6BZt1aPVs-byyj6jbFNI",
+    "banner": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/slack-logo-slide.png",
+    "downloads": 269396026,
+    "category": "Business",
+    "rating": 4.8,
+    "description": "Slack is a top-rated app used globally for learning.",
+    "features": [
+      "HD video",
+      "Push notifications",
+      "Multi-language",
+      "Cloud sync"
+    ],
+    "reviews": [
+      {
+        "user": "theresa11",
+        "rating": 4,
+        "comment": "Fine money whatever huge behavior."
+      },
+      {
+        "user": "marymurray",
+        "rating": 3,
+        "comment": "Management pass drive movement offer rate heavy."
+      },
+      {
+        "user": "zcannon",
+        "rating": 5,
+        "comment": "Perhaps choice each professional be I."
+      },
+      {
+        "user": "lortiz",
+        "rating": 3,
+        "comment": "Seek hotel ten sort task Democrat feel task."
+      },
+      {
+        "user": "smithbrett",
+        "rating": 3,
+        "comment": "Prepare kid least nice use how."
+      },
+      {
+        "user": "qhall",
+        "rating": 3,
+        "comment": "Today continue ball."
+      }
+    ]
+  },
+  {
+    "id": "app027",
+    "name": "Shazam",
+    "developer": "Elliott-King",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shazam_icon.svg/2048px-Shazam_icon.svg.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaRSe0SZka5v9-_5-zDUGaCBrX8MuGoRV8aw&s",
+    "downloads": 716010003,
+    "category": "Music",
+    "rating": 3.8,
+    "description": "Shazam is a top-rated app used globally for entertainment.",
+    "features": [
+      "Live chat",
+      "Offline mode",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "jessicaglover",
+        "rating": 3,
+        "comment": "Under everybody wait standard director outside consider."
+      },
+      {
+        "user": "ofaulkner",
+        "rating": 5,
+        "comment": "Offer available direction red size talk."
+      },
+      {
+        "user": "charlene92",
+        "rating": 4,
+        "comment": "If especially center memory less."
+      },
+      {
+        "user": "donna99",
+        "rating": 5,
+        "comment": "House inside wrong similar small feel live."
+      }
+    ]
+  },
+  {
+    "id": "app028",
+    "name": "Tinder",
+    "developer": "Walton-Spencer",
+    "thumbnail": "https://static.vecteezy.com/system/resources/previews/023/986/672/non_2x/tinder-app-logo-tinder-app-logo-transparent-tinder-app-icon-transparent-free-free-png.png",
+    "banner": "https://gotrialpro.com/wp-content/uploads/edd/2024/08/Tinder-Free-Trial-.png",
+    "downloads": 734731009,
+    "category": "Dating",
+    "rating": 5.0,
+    "description": "Tinder is a top-rated app used globally for gaming.",
+    "features": [
+      "Cloud sync",
+      "Secure login",
+      "HD video"
+    ],
+    "reviews": [
+      {
+        "user": "jamesweaver",
+        "rating": 5,
+        "comment": "Recent different two nearly measure technology garden."
+      },
+      {
+        "user": "martinriley",
+        "rating": 4,
+        "comment": "Strong successful form fish box magazine."
+      },
+      {
+        "user": "awilliams",
+        "rating": 5,
+        "comment": "Score weight strategy buy run particular."
+      },
+      {
+        "user": "william76",
+        "rating": 3,
+        "comment": "Site bank wife leg still person."
+      },
+      {
+        "user": "timothynewman",
+        "rating": 5,
+        "comment": "Scientist change current fight."
+      }
+    ]
+  },
+  {
+    "id": "app029",
+    "name": "Duolingo",
+    "developer": "Chaney-Wilson",
+    "thumbnail": "https://play-lh.googleusercontent.com/ZYKTGrS5CresqrZJb-ewGyIHY2bA6dOKrTJqMAb6n4HXVQY4S9tOfhg0aiY8JH5zxg",
+    "banner": "https://blog.duolingo.com/content/images/2022/03/WHM-Characters--1-.png",
+    "downloads": 911808538,
+    "category": "Education",
+    "rating": 4.0,
+    "description": "Duolingo is a top-rated app used globally for learning.",
+    "features": [
+      "Data backup",
+      "Interactive UI",
+      "Live chat",
+      "Cloud sync",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "janesalinas",
+        "rating": 5,
+        "comment": "Energy wait simple minute pick character region."
+      },
+      {
+        "user": "jreyes",
+        "rating": 5,
+        "comment": "Recently note issue plan condition by."
+      },
+      {
+        "user": "garcialeah",
+        "rating": 3,
+        "comment": "Decision coach least."
+      },
+      {
+        "user": "shanewebb",
+        "rating": 5,
+        "comment": "Crime born perform forget threat certain like."
+      },
+      {
+        "user": "jamesrice",
+        "rating": 5,
+        "comment": "Class good true between."
+      },
+      {
+        "user": "raymondmiller",
+        "rating": 3,
+        "comment": "Note special deal enjoy while song wait."
+      },
+      {
+        "user": "philip13",
+        "rating": 5,
+        "comment": "Letter news type federal small hospital high."
+      }
+    ]
+  },
+  {
+    "id": "app030",
+    "name": "Khan Academy",
+    "developer": "Thomas, Bradshaw and Shaw",
+    "thumbnail": "https://images.seeklogo.com/logo-png/39/1/khan-academy-logo-png_seeklogo-394590.png",
+    "banner": "https://download.logo.wine/logo/Khan_Academy/Khan_Academy-Logo.wine.png",
+    "downloads": 544976128,
+    "category": "Education",
+    "rating": 4.9,
+    "description": "Khan Academy is a top-rated app used globally for entertainment.",
+    "features": [
+      "Multi-language",
+      "Dark mode",
+      "Interactive UI"
+    ],
+    "reviews": [
+      {
+        "user": "victoriaherrera",
+        "rating": 4,
+        "comment": "Better worry official study report hour adult."
+      },
+      {
+        "user": "tara16",
+        "rating": 5,
+        "comment": "Indeed home number."
+      },
+      {
+        "user": "njensen",
+        "rating": 5,
+        "comment": "Age dream why actually tree answer evidence word."
+      },
+      {
+        "user": "ebrewer",
+        "rating": 3,
+        "comment": "Cause never meet four authority increase."
+      },
+      {
+        "user": "thomaslopez",
+        "rating": 4,
+        "comment": "Yard must various after."
+      },
+      {
+        "user": "williamsvirginia",
+        "rating": 3,
+        "comment": "Ok provide bit minute program."
+      }
+    ]
+  },
+  {
+    "id": "app031",
+    "name": "Coursera",
+    "developer": "Farley-Howard",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coursera-Logo_600x600.svg/2048px-Coursera-Logo_600x600.svg.png",
+    "banner": "https://about.coursera.org/static/whiteCoursera-23ec484f7091914430ce19b07d09aedf.svg",
+    "downloads": 70611514,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Coursera is a top-rated app used globally for gaming.",
+    "features": [
+      "Secure login",
+      "Live chat",
+      "Cloud sync"
+    ],
+    "reviews": [
+      {
+        "user": "vargascynthia",
+        "rating": 5,
+        "comment": "Mission difference shoulder over."
+      },
+      {
+        "user": "pcampbell",
+        "rating": 5,
+        "comment": "Treatment thus successful manager hundred."
+      },
+      {
+        "user": "grayangela",
+        "rating": 4,
+        "comment": "Unit ago quality consumer benefit wonder."
+      },
+      {
+        "user": "charlene15",
+        "rating": 4,
+        "comment": "Energy couple get cost guy."
+      },
+      {
+        "user": "amy01",
+        "rating": 4,
+        "comment": "Mrs strong marriage."
+      },
+      {
+        "user": "williamsdale",
+        "rating": 3,
+        "comment": "Wait each energy week."
+      }
+    ]
+  },
+  {
+    "id": "app032",
+    "name": "Microsoft Teams",
+    "developer": "Hoffman-Reid",
+    "thumbnail": "https://1000logos.net/wp-content/uploads/2021/12/Microsoft-Teams-Logo.png",
+    "banner": "https://teach.cbs.dk/wp-content/uploads/2022/01/Microsoft_Teams_Android_Smartphone.jpeg",
+    "downloads": 73547963,
+    "category": "Business",
+    "rating": 4.6,
+    "description": "Microsoft Teams is a top-rated app used globally for entertainment.",
+    "features": [
+      "Multi-language",
+      "HD video",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "stephanie10",
+        "rating": 3,
+        "comment": "Young let born short history themselves upon."
+      },
+      {
+        "user": "cynthiabruce",
+        "rating": 3,
+        "comment": "Agreement agent point than ever above any."
+      },
+      {
+        "user": "catherine31",
+        "rating": 3,
+        "comment": "Other doctor still."
+      },
+      {
+        "user": "erin58",
+        "rating": 3,
+        "comment": "Several for buy among before service."
+      },
+      {
+        "user": "bairdmary",
+        "rating": 4,
+        "comment": "With past stay watch fire spring."
+      },
+      {
+        "user": "theodore95",
+        "rating": 5,
+        "comment": "Data senior enough another."
+      }
+    ]
+  },
+  {
+    "id": "app033",
+    "name": "Google Drive",
+    "developer": "Daniel, Mathews and Bailey",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1200px-Google_Drive_icon_%282020%29.svg.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pYh8a8XQWbN_D0Xjy2z60hKTiS9JDXs7Xg&s",
+    "downloads": 139169469,
+    "category": "Productivity",
+    "rating": 4.1,
+    "description": "Google Drive is a top-rated app used globally for productivity.",
+    "features": [
+      "Interactive UI",
+      "Data backup",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "kathleenholmes",
+        "rating": 3,
+        "comment": "My song company body."
+      },
+      {
+        "user": "ronaldwallace",
+        "rating": 3,
+        "comment": "Rule remember situation card college loss soldier."
+      },
+      {
+        "user": "shanegarza",
+        "rating": 3,
+        "comment": "Girl we surface."
+      },
+      {
+        "user": "williamskatie",
+        "rating": 3,
+        "comment": "Reason public while agreement training past."
+      },
+      {
+        "user": "mcbrideaustin",
+        "rating": 5,
+        "comment": "Culture mouth rest fish production hope."
+      },
+      {
+        "user": "eric55",
+        "rating": 4,
+        "comment": "People interest fear much film want."
+      }
+    ]
+  },
+  {
+    "id": "app034",
+    "name": "Chrome",
+    "developer": "Reynolds and Sons",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/800px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "banner": "https://getchrome.eu/wp-content/uploads/2021/11/chrome-1.jpg",
+    "downloads": 157834868,
+    "category": "Communication",
+    "rating": 4.4,
+    "description": "Chrome is a top-rated app used globally for entertainment.",
+    "features": [
+      "Secure login",
+      "HD video",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "kevin15",
+        "rating": 5,
+        "comment": "Attention position expect design address."
+      },
+      {
+        "user": "melissajordan",
+        "rating": 5,
+        "comment": "Ahead gas speak night decade door rise."
+      },
+      {
+        "user": "hsanders",
+        "rating": 5,
+        "comment": "Sense add manage serve production strategy evening."
+      },
+      {
+        "user": "vfoster",
+        "rating": 5,
+        "comment": "Risk describe would however."
+      },
+      {
+        "user": "francis81",
+        "rating": 4,
+        "comment": "Church agreement strong onto method will animal."
+      },
+      {
+        "user": "usanchez",
+        "rating": 4,
+        "comment": "Such admit third leg."
+      },
+      {
+        "user": "hudsonjessica",
+        "rating": 3,
+        "comment": "Write movement enter game upon."
+      }
+    ]
+  },
+  {
+    "id": "app035",
+    "name": "Firefox",
+    "developer": "Stone, Moore and Taylor",
+    "thumbnail": "https://store-images.s-microsoft.com/image/apps.2794.14473293538384797.0ec149d2-d2b5-48a8-afd4-66986d387ec9.5a7e12ea-3baa-41de-ae7c-e58c7d22b644",
+    "banner": "https://www.mozilla.org/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png",
+    "downloads": 241975963,
+    "category": "Communication",
+    "rating": 4.1,
+    "description": "Firefox is a top-rated app used globally for productivity.",
+    "features": [
+      "Secure login",
+      "Dark mode",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "nwhite",
+        "rating": 3,
+        "comment": "Anyone officer term something."
+      },
+      {
+        "user": "perezmichelle",
+        "rating": 5,
+        "comment": "Old wear world glass wrong."
+      },
+      {
+        "user": "julie52",
+        "rating": 3,
+        "comment": "Under rock painting man thank."
+      },
+      {
+        "user": "cassidymurphy",
+        "rating": 4,
+        "comment": "Operation usually country development rate respond change."
+      }
+    ]
+  },
+  {
+    "id": "app036",
+    "name": "Opera",
+    "developer": "Davis and Sons",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4cpv7E568-vdQDCfqVTNFzsTUg5mEWc33A&s",
+    "downloads": 581908690,
+    "category": "Communication",
+    "rating": 4.3,
+    "description": "Opera is a top-rated app used globally for learning.",
+    "features": [
+      "Data backup",
+      "Dark mode",
+      "Offline mode",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "maria82",
+        "rating": 3,
+        "comment": "Majority owner stuff cause."
+      },
+      {
+        "user": "keithmarquez",
+        "rating": 5,
+        "comment": "Money accept fine."
+      },
+      {
+        "user": "jessica34",
+        "rating": 5,
+        "comment": "Physical send protect rest tough audience set."
+      },
+      {
+        "user": "lopezrichard",
+        "rating": 5,
+        "comment": "Movie maintain wear hope."
+      }
+    ]
+  },
+  {
+    "id": "app037",
+    "name": "Microsoft Word",
+    "developer": "Hickman LLC",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr_KpwEL__Ydy0Xy7fl5cxg9sKsKpPJt9G4Q&s",
+    "banner": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2022/11/MSword-shortcut.png?fit=1200%2C675&ssl=1",
+    "downloads": 319737162,
+    "category": "Productivity",
+    "rating": 4.5,
+    "description": "Microsoft Word is a top-rated app used globally for learning.",
+    "features": [
+      "Interactive UI",
+      "Dark mode",
+      "HD video",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "jeremylopez",
+        "rating": 3,
+        "comment": "Deep recent rise under find pretty buy."
+      },
+      {
+        "user": "anitavelazquez",
+        "rating": 4,
+        "comment": "Audience bill support station increase memory."
+      },
+      {
+        "user": "tracy83",
+        "rating": 5,
+        "comment": "Last model avoid that coach or."
+      },
+      {
+        "user": "lisaarmstrong",
+        "rating": 5,
+        "comment": "Feel fly standard."
+      },
+      {
+        "user": "duncanjohn",
+        "rating": 4,
+        "comment": "Sit main parent budget have the skin."
+      },
+      {
+        "user": "vaughnrandy",
+        "rating": 3,
+        "comment": "Exist hot money crime without black on."
+      }
+    ]
+  },
+  {
+    "id": "app038",
+    "name": "Adobe Acrobat",
+    "developer": "Glass and Sons",
+    "thumbnail": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBcXm6WqCy1Yzd43klSX2PfqewvVhvi79LEIUH9NML_xPhAONFeKcRHsvVkxrfiDRy_yjxoulKzq2ePPCbFpiNRY-&format=source",
+    "banner": "https://blog.fmctraining.com/hs-fs/hubfs/What%20is%20Adobe%20Acrobat%20Pro.webp?width=1200&height=630&name=What%20is%20Adobe%20Acrobat%20Pro.webp",
+    "downloads": 894944997,
+    "category": "Productivity",
+    "rating": 4.3,
+    "description": "Adobe Acrobat is a top-rated app used globally for gaming.",
+    "features": [
+      "Dark mode",
+      "Secure login",
+      "Cloud sync",
+      "Offline mode",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "aguilarbethany",
+        "rating": 5,
+        "comment": "Financial light college be particularly artist let."
+      },
+      {
+        "user": "david77",
+        "rating": 4,
+        "comment": "Cover make letter organization behavior crime point."
+      },
+      {
+        "user": "brian45",
+        "rating": 4,
+        "comment": "Individual material difficult letter race."
+      },
+      {
+        "user": "derrick95",
+        "rating": 3,
+        "comment": "Test college attack ask."
+      },
+      {
+        "user": "vmonroe",
+        "rating": 4,
+        "comment": "May relate almost boy."
+      }
+    ]
+  },
+  {
+    "id": "app039",
+    "name": "Canva",
+    "developer": "Pearson Ltd",
+    "thumbnail": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwadpHjl76SlQnWKc4OkaILTy7aDmpraBC2vB.Q_eb6EavJPyLEBEEqc.BSkZzu5Vng-&format=source",
+    "banner": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "downloads": 709386048,
+    "category": "Art & Design",
+    "rating": 3.8,
+    "description": "Canva is a top-rated app used globally for communication.",
+    "features": [
+      "HD video",
+      "Push notifications",
+      "Live chat",
+      "Offline mode"
+    ],
+    "reviews": [
+      {
+        "user": "harperjulie",
+        "rating": 4,
+        "comment": "Western sense mind."
+      },
+      {
+        "user": "osmith",
+        "rating": 5,
+        "comment": "Likely though involve thank."
+      },
+      {
+        "user": "nicholasswanson",
+        "rating": 4,
+        "comment": "Weight use watch build true prevent concern."
+      },
+      {
+        "user": "msmith",
+        "rating": 5,
+        "comment": "Edge although civil term owner walk film."
+      },
+      {
+        "user": "davissusan",
+        "rating": 4,
+        "comment": "Music society push foot perhaps."
+      }
+    ]
+  },
+  {
+    "id": "app040",
+    "name": "CapCut",
+    "developer": "Reyes and Sons",
+    "thumbnail": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxtHdRB6xk71KqOPxE23.XPhWx5_2ZSeUitfkyPH84LYyyvao4TRDTdjsqNyHQyyGZV7A3D2fje3j_2k2th2Xbnc-&format=source&h=253",
+    "banner": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/ies/lvweb_os_monorepo/platformSSR/3f7c59f36d529f90-1200.png",
+    "downloads": 9534814,
+    "category": "Video Players",
+    "rating": 4.0,
+    "description": "CapCut is a top-rated app used globally for entertainment.",
+    "features": [
+      "Interactive UI",
+      "Data backup",
+      "Offline mode",
+      "Cloud sync",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "rodriguezthomas",
+        "rating": 5,
+        "comment": "Star key care start wear until movie."
+      },
+      {
+        "user": "hendersonbianca",
+        "rating": 3,
+        "comment": "Guess once evidence believe race attack woman will."
+      },
+      {
+        "user": "romanbenjamin",
+        "rating": 3,
+        "comment": "Also under phone."
+      },
+      {
+        "user": "sarah27",
+        "rating": 3,
+        "comment": "Training no good good feel."
+      },
+      {
+        "user": "kevin11",
+        "rating": 4,
+        "comment": "Community prepare you visit both describe."
+      },
+      {
+        "user": "adam76",
+        "rating": 4,
+        "comment": "Official think write."
+      },
+      {
+        "user": "james72",
+        "rating": 4,
+        "comment": "Ask my determine human poor between."
+      }
+    ]
+  },
+  {
+    "id": "app041",
+    "name": "PicsArt",
+    "developer": "Barron, Cohen and Hunter",
+    "thumbnail": "https://store-images.s-microsoft.com/image/apps.28704.9007199266243744.f4ca7a76-4e1c-4c9a-a3e8-7781669929be.cbfaf0e9-4ec2-4e6a-a2bc-18395dab2f0b?h=210",
+    "banner": "https://play-lh.googleusercontent.com/WhyOFAlXuOT_Q7QVivxgvfQX599GxYxNQyUMlKWNTbCPTGuwVirAVYS1pbkjMWSJh2A=w3840-h2160-rw",
+    "downloads": 592908701,
+    "category": "Photography",
+    "rating": 3.9,
+    "description": "PicsArt is a top-rated app used globally for entertainment.",
+    "features": [
+      "HD video",
+      "Cloud sync",
+      "Live chat",
+      "Data backup"
+    ],
+    "reviews": [
+      {
+        "user": "debra10",
+        "rating": 4,
+        "comment": "Customer respond mission make."
+      },
+      {
+        "user": "xwall",
+        "rating": 5,
+        "comment": "Natural speak staff wind enough whom smile."
+      },
+      {
+        "user": "smithkenneth",
+        "rating": 5,
+        "comment": "Develop evening fund."
+      },
+      {
+        "user": "zflores",
+        "rating": 5,
+        "comment": "Guy modern market military near many time."
+      }
+    ]
+  },
+  {
+    "id": "app042",
+    "name": "VSCO",
+    "developer": "May, Phillips and Stark",
+    "thumbnail": "https://store-images.s-microsoft.com/image/apps.19620.14380672629780887.2c0f86f0-af77-4689-99bb-e525bd748095.b642ceaf-5c22-4515-abac-1d42ee059a06",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCefIEVFAr1ZIFv04ftKHmrstdQdC1Yp9LA&s",
+    "downloads": 183177870,
+    "category": "Photography",
+    "rating": 4.6,
+    "description": "VSCO is a top-rated app used globally for learning.",
+    "features": [
+      "HD video",
+      "Live chat",
+      "Interactive UI",
+      "Dark mode",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "mccartychristina",
+        "rating": 4,
+        "comment": "Pressure almost Congress exactly tell."
+      },
+      {
+        "user": "arthurlynch",
+        "rating": 3,
+        "comment": "Into often determine want parent simple."
+      },
+      {
+        "user": "sherithomas",
+        "rating": 5,
+        "comment": "Language street approach family particularly husband."
+      },
+      {
+        "user": "franklinleah",
+        "rating": 4,
+        "comment": "Church account establish heavy."
+      },
+      {
+        "user": "jbaker",
+        "rating": 5,
+        "comment": "Six line former single treatment."
+      },
+      {
+        "user": "josecooper",
+        "rating": 3,
+        "comment": "Push drug vote daughter kid since recently."
+      },
+      {
+        "user": "cindychapman",
+        "rating": 5,
+        "comment": "Then throw improve season heavy."
+      }
+    ]
+  },
+  {
+    "id": "app043",
+    "name": "Photo Editor",
+    "developer": "Myers, Gray and Mayer",
+    "thumbnail": "https://static.vecteezy.com/system/resources/previews/010/952/951/non_2x/movie-film-editor-logo-design-video-editing-logo-concept-vector.jpg",
+    "banner": "https://imgv3.fotor.com/images/videoImage/Edit-styles-of-Linkedin-background-banners-with-Fotors-Linkedin-banner-maker.jpg",
+    "downloads": 370757055,
+    "category": "Photography",
+    "rating": 4.1,
+    "description": "Photo Editor is a top-rated app used globally for gaming.",
+    "features": [
+      "Interactive UI",
+      "Multi-language",
+      "Live chat",
+      "Cloud sync",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "danielle27",
+        "rating": 4,
+        "comment": "Today style role decade realize later."
+      },
+      {
+        "user": "hudsonkarla",
+        "rating": 5,
+        "comment": "East second couple recent individual real."
+      },
+      {
+        "user": "megan40",
+        "rating": 4,
+        "comment": "Growth nation address meeting study century purpose with."
+      },
+      {
+        "user": "jennifer76",
+        "rating": 5,
+        "comment": "Choose letter management choice."
+      },
+      {
+        "user": "cynthiabradley",
+        "rating": 5,
+        "comment": "Seem lead marriage during."
+      }
+    ]
+  },
+  {
+    "id": "app044",
+    "name": "Lightroom",
+    "developer": "Carlson-Johnson",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/756ff246-96d1-11e6-bc27-00163ed833e7/844328541/adobe-photoshop-lightroom-icon.png",
+    "banner": "https://i.ytimg.com/vi/u__bmTtIUeo/hqdefault.jpg",
+    "downloads": 882905237,
+    "category": "Travel",
+    "rating": 4.9,
+    "description": "Lightroom is a top-rated app used globally for entertainment.",
+    "features": [
+      "Interactive UI",
+      "Multi-language",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "lopezsteve",
+        "rating": 3,
+        "comment": "News leave free talk life certainly."
+      },
+      {
+        "user": "adamsmonique",
+        "rating": 3,
+        "comment": "Animal free agency back."
+      },
+      {
+        "user": "cynthia49",
+        "rating": 5,
+        "comment": "Training consider young can city position little."
+      },
+      {
+        "user": "katherinelopez",
+        "rating": 4,
+        "comment": "Mrs wait three like difficult."
+      }
+    ]
+  },
+  {
+    "id": "app045",
+    "name": "MX Player",
+    "developer": "Coleman, Clarke and Roach",
+    "thumbnail": "https://mxplayerpc.com/images/uploads/2022-08-30/icon-pgpn8.png",
+    "banner": "https://i0.wp.com/musically.com/wp-content/uploads/2019/10/mx-player.jpg?fit=1200%2C600&ssl=1",
+    "downloads": 84332646,
+    "category": "Tools",
+    "rating": 3.9,
+    "description": "MX Player is a top-rated app used globally for entertainment.",
+    "features": [
+      "Live chat",
+      "Multi-language",
+      "Push notifications",
+      "Interactive UI",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "snydertracey",
+        "rating": 4,
+        "comment": "Beat to lot throughout bill media."
+      },
+      {
+        "user": "moorejake",
+        "rating": 5,
+        "comment": "Evidence ready show push he network."
+      },
+      {
+        "user": "aaronholmes",
+        "rating": 4,
+        "comment": "Leader job specific degree side two Congress."
+      },
+      {
+        "user": "tammy65",
+        "rating": 5,
+        "comment": "Natural manager left most information sell."
+      }
+    ]
+  },
+  {
+    "id": "app046",
+    "name": "VLC",
+    "developer": "Smith-Lee",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/c78b1e6e-96bf-11e6-9f04-00163ed833e7/2882878425/vlc-media-player-Download-VLC-Media-Player.jpg",
+    "banner": "https://www.linuxuntu.com/wp-content/uploads/2023/01/VLC-Logo.jpg",
+    "downloads": 133075126,
+    "category": "Music",
+    "rating": 3.6,
+    "description": "VLC is a top-rated app used globally for entertainment.",
+    "features": [
+      "Offline mode",
+      "HD video",
+      "Dark mode",
+      "Data backup",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "kinglisa",
+        "rating": 5,
+        "comment": "Church hand when resource exist attack."
+      },
+      {
+        "user": "timothy94",
+        "rating": 5,
+        "comment": "Nor heart set let fine."
+      },
+      {
+        "user": "brian59",
+        "rating": 5,
+        "comment": "Investment respond say step."
+      },
+      {
+        "user": "mkelley",
+        "rating": 3,
+        "comment": "Water seek recognize show open determine husband about."
+      },
+      {
+        "user": "owoodard",
+        "rating": 4,
+        "comment": "Some blue natural pass."
+      }
+    ]
+  },
+  {
+    "id": "app047",
+    "name": "PUBG Mobile",
+    "developer": "Edwards, Torres and Clark",
+    "thumbnail": "https://static.gameloop.com/syzs_cms/202411/0c1b802dbf58e04cf330d4631741e980.png?imageMogr2/thumbnail/undefinedx56/format/webp",
+    "banner": "https://cdn.prod.website-files.com/6657421f71dedfccb6c0511b/67885c33d4a048f2df9c8af2_66bea0b210c947d3792e798a_pubg-mobile-battle-royale-video-game-g65tnwjjt1iwoyto.jpeg",
+    "downloads": 415601505,
+    "category": "Health & Fitness",
+    "rating": 3.8,
+    "description": "PUBG Mobile is a top-rated app used globally for gaming.",
+    "features": [
+      "Secure login",
+      "Interactive UI",
+      "Cloud sync",
+      "Push notifications",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "lisafrazier",
+        "rating": 4,
+        "comment": "Young herself middle lose."
+      },
+      {
+        "user": "christinemiller",
+        "rating": 3,
+        "comment": "Mention Mr safe feel professor company."
+      },
+      {
+        "user": "bmartin",
+        "rating": 5,
+        "comment": "Trade strong voice idea."
+      },
+      {
+        "user": "lgray",
+        "rating": 4,
+        "comment": "Who fish up American."
+      },
+      {
+        "user": "garciamichael",
+        "rating": 4,
+        "comment": "Cover bad many head anyone fall food."
+      },
+      {
+        "user": "pward",
+        "rating": 5,
+        "comment": "Television would day ever weight must if."
+      },
+      {
+        "user": "zoecopeland",
+        "rating": 3,
+        "comment": "Imagine wish cell would score tax already."
+      }
+    ]
+  },
+  {
+    "id": "app048",
+    "name": "Call of Duty",
+    "developer": "Donaldson Inc",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/824a195a-96d2-11e6-aa74-00163ed833e7/875556425/call-of-duty-220px-Codbox.jpg",
+    "banner": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1938090/dd68f8902dcddadd3a47fecc4ccc586683592c6b/header.jpg?t=1744388487",
+    "downloads": 518191017,
+    "category": "Finance",
+    "rating": 4.4,
+    "description": "Call of Duty is a top-rated app used globally for productivity.",
+    "features": [
+      "Interactive UI",
+      "HD video",
+      "Push notifications",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "krista36",
+        "rating": 5,
+        "comment": "Good eight him available hot article glass."
+      },
+      {
+        "user": "heidirowe",
+        "rating": 3,
+        "comment": "Name class take from here."
+      },
+      {
+        "user": "uanderson",
+        "rating": 3,
+        "comment": "Enter pull admit happen."
+      },
+      {
+        "user": "smann",
+        "rating": 5,
+        "comment": "Cup plan large his."
+      },
+      {
+        "user": "sherimcconnell",
+        "rating": 4,
+        "comment": "Should focus size now budget."
+      },
+      {
+        "user": "hsmith",
+        "rating": 4,
+        "comment": "Born doctor dog prove."
+      }
+    ]
+  },
+  {
+    "id": "app049",
+    "name": "Free Fire",
+    "developer": "Meadows, Martin and Lynch",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_-d0GpL4pqsqRp-mRg96jTwmPD-wehMICg&s",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbd6CYFvIaGJR7eWiE8C5O90bTBcrs9OUmcw&s",
+    "downloads": 194430915,
+    "category": "Communication",
+    "rating": 4.8,
+    "description": "Free Fire is a top-rated app used globally for gaming.",
+    "features": [
+      "Cloud sync",
+      "Secure login",
+      "Data backup",
+      "Interactive UI",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "williamsalicia",
+        "rating": 3,
+        "comment": "Enough item some hard take voice dinner."
+      },
+      {
+        "user": "simmonsbrian",
+        "rating": 3,
+        "comment": "Game partner all because along data together."
+      },
+      {
+        "user": "lori95",
+        "rating": 3,
+        "comment": "Analysis night yet music single before."
+      },
+      {
+        "user": "zwalters",
+        "rating": 5,
+        "comment": "Candidate run loss early part."
+      },
+      {
+        "user": "adam69",
+        "rating": 3,
+        "comment": "That position theory."
+      }
+    ]
+  },
+  {
+    "id": "app050",
+    "name": "Clash of Clans",
+    "developer": "Elliott-Evans",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/29b5d97a-97ae-4aa8-9f06-ebc8193da10a/2716175944/clash-of-clans-download-Clash-of-Clans-for-Windows.jpg",
+    "banner": "https://supercell.com/images/4c0ab0c1fb2958e72103f81632fee096/og_clashofclans.f3149338.jpg",
+    "downloads": 941947097,
+    "category": "Finance",
+    "rating": 3.7,
+    "description": "Clash of Clans is a top-rated app used globally for productivity.",
+    "features": [
+      "Live chat",
+      "Offline mode",
+      "Interactive UI",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "denisemorgan",
+        "rating": 3,
+        "comment": "Cut base discuss hundred water deep now have."
+      },
+      {
+        "user": "terrigriffith",
+        "rating": 5,
+        "comment": "Improve over whom thousand state others someone."
+      },
+      {
+        "user": "kimberly79",
+        "rating": 4,
+        "comment": "Pick wait available especially."
+      },
+      {
+        "user": "trangel",
+        "rating": 5,
+        "comment": "Wonder agreement fly seem later oil."
+      },
+      {
+        "user": "vfletcher",
+        "rating": 4,
+        "comment": "Team help of walk others off raise follow."
+      }
+    ]
+  },
+  {
+    "id": "app051",
+    "name": "Candy Crush",
+    "developer": "Navarro, Love and Bailey",
+    "thumbnail": "https://play-lh.googleusercontent.com/TLUeelx8wcpEzf3hoqeLxPs3ai1tdGtAZTIFkNqy3gbDp1NPpNFTOzSFJDvZ9narFS0",
+    "banner": "https://www.king.com/media/r3dbpf3e/candycrush.webp?width=1200&height=627&v=133867610452900000&format=webp&quality=85",
+    "downloads": 928802760,
+    "category": "Shopping",
+    "rating": 3.8,
+    "description": "Candy Crush is a top-rated app used globally for communication.",
+    "features": [
+      "Interactive UI",
+      "HD video",
+      "Data backup",
+      "Cloud sync",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "harmonkendra",
+        "rating": 4,
+        "comment": "Sometimes eat home education music."
+      },
+      {
+        "user": "amy39",
+        "rating": 4,
+        "comment": "Adult PM size act themselves than."
+      },
+      {
+        "user": "mjimenez",
+        "rating": 3,
+        "comment": "All concern near Congress anyone tax someone over."
+      },
+      {
+        "user": "taylorclarence",
+        "rating": 4,
+        "comment": "Fine set responsibility sort available sea soldier wonder."
+      }
+    ]
+  },
+  {
+    "id": "app052",
+    "name": "Subway Surfers",
+    "developer": "Johnson, Hayes and Anderson",
+    "thumbnail": "https://play-lh.googleusercontent.com/xrp1TmYQoexB5tTC37xS7jXemTRUQDWi72SL6iqOPZ-bzjvN_tUWBRgYNUOVB1NseA",
+    "banner": "https://i.ytimg.com/vi/-IPK_hc2cEA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAPF_9Vw6JRwbcWjVGOmed3KnKILA",
+    "downloads": 461686357,
+    "category": "Games",
+    "rating": 4.3,
+    "description": "Subway Surfers is a top-rated app used globally for gaming.",
+    "features": [
+      "Offline mode",
+      "Secure login",
+      "Push notifications"
+    ],
+    "reviews": [
+      {
+        "user": "ycalderon",
+        "rating": 4,
+        "comment": "Fall final identify."
+      },
+      {
+        "user": "jonescindy",
+        "rating": 4,
+        "comment": "Must possible reality already."
+      },
+      {
+        "user": "laura95",
+        "rating": 4,
+        "comment": "Final can possible oil next garden up."
+      },
+      {
+        "user": "amanda07",
+        "rating": 5,
+        "comment": "After support no."
+      },
+      {
+        "user": "schultzmichele",
+        "rating": 4,
+        "comment": "Surface state nearly always."
+      },
+      {
+        "user": "phansen",
+        "rating": 3,
+        "comment": "Other all career."
+      }
+    ]
+  },
+  {
+    "id": "app053",
+    "name": "Temple Run",
+    "developer": "Vasquez-Mcmillan",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7S-XXHOOhWSz7CFliAV9irhPyDrg9Syxndg&s",
+    "banner": "https://i.ytimg.com/vi/caTpf8N5qvg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCtDCewrdvaCLANCkfig-Nb_T77sw",
+    "downloads": 282937741,
+    "category": "News",
+    "rating": 4.4,
+    "description": "Temple Run is a top-rated app used globally for communication.",
+    "features": [
+      "Live chat",
+      "Cloud sync",
+      "Secure login",
+      "HD video",
+      "Offline mode"
+    ],
+    "reviews": [
+      {
+        "user": "deleonashley",
+        "rating": 4,
+        "comment": "Take put red see boy."
+      },
+      {
+        "user": "mary20",
+        "rating": 5,
+        "comment": "Home make claim see she home."
+      },
+      {
+        "user": "ffrey",
+        "rating": 5,
+        "comment": "Push way agreement."
+      },
+      {
+        "user": "stephen38",
+        "rating": 3,
+        "comment": "Five enough skin too main fast."
+      },
+      {
+        "user": "tyler97",
+        "rating": 3,
+        "comment": "Eat tax so tend open few event."
+      },
+      {
+        "user": "jarededwards",
+        "rating": 5,
+        "comment": "Customer near seat."
+      }
+    ]
+  },
+  {
+    "id": "app054",
+    "name": "Among Us",
+    "developer": "Mueller Group",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/d10217b5-1ae1-44dd-a82c-6e2d60d086d6/3969265935/among-us-Download-Among-Us.jpg",
+    "banner": "https://img.youtube.com/vi/rS75cFVEvUA/maxresdefault.jpg",
+    "downloads": 854987327,
+    "category": "Social",
+    "rating": 4.2,
+    "description": "Among Us is a top-rated app used globally for gaming.",
+    "features": [
+      "Push notifications",
+      "Secure login",
+      "HD video",
+      "Interactive UI",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "zkeith",
+        "rating": 5,
+        "comment": "Player leave main four."
+      },
+      {
+        "user": "john68",
+        "rating": 4,
+        "comment": "Two include Mrs on fast market account there."
+      },
+      {
+        "user": "vhogan",
+        "rating": 4,
+        "comment": "Next raise against father."
+      },
+      {
+        "user": "stevenjoseph",
+        "rating": 3,
+        "comment": "Commercial read under person rock reflect space."
+      },
+      {
+        "user": "nathangreen",
+        "rating": 5,
+        "comment": "Fill investment maybe daughter."
+      },
+      {
+        "user": "natasha90",
+        "rating": 4,
+        "comment": "Head herself travel concern technology remain."
+      },
+      {
+        "user": "michael00",
+        "rating": 5,
+        "comment": "Free rule so door."
+      }
+    ]
+  },
+  {
+    "id": "app055",
+    "name": "Roblox",
+    "developer": "Carter, Daniel and Clark",
+    "thumbnail": "https://play-lh.googleusercontent.com/7cIIPlWm4m7AGqVpEsIfyL-HW4cQla4ucXnfalMft1TMIYQIlf2vqgmthlZgbNAQoaQ",
+    "banner": "https://www.esrb.org/wp-content/uploads/2023/08/Roblox-Key.png",
+    "downloads": 822794538,
+    "category": "Music",
+    "rating": 3.6,
+    "description": "Roblox is a top-rated app used globally for learning.",
+    "features": [
+      "Interactive UI",
+      "Secure login",
+      "Push notifications",
+      "Multi-language",
+      "Offline mode"
+    ],
+    "reviews": [
+      {
+        "user": "kathy27",
+        "rating": 4,
+        "comment": "Rather back wrong budget."
+      },
+      {
+        "user": "marywilliams",
+        "rating": 5,
+        "comment": "Attention in common."
+      },
+      {
+        "user": "shelby64",
+        "rating": 3,
+        "comment": "Such position final choice gas religious first."
+      },
+      {
+        "user": "conleyerin",
+        "rating": 4,
+        "comment": "Next name wall Democrat."
+      },
+      {
+        "user": "lrobinson",
+        "rating": 3,
+        "comment": "Notice hit quickly opportunity fight despite treatment."
+      },
+      {
+        "user": "courtney04",
+        "rating": 5,
+        "comment": "Baby TV treatment theory surface benefit."
+      },
+      {
+        "user": "davidkaiser",
+        "rating": 5,
+        "comment": "Truth own example tax position vote."
+      }
+    ]
+  },
+  {
+    "id": "app056",
+    "name": "Minecraft",
+    "developer": "Mathis-Berger",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png",
+    "banner": "https://cms-assets.xboxservices.com/assets/22/3a/223a1521-60cf-4a82-b708-c5f2fdfcf163.jpg?n=Minecraft-Vanilla_Sneaky-Slider-1084_Spring-to-Life_1600x675.jpg",
+    "downloads": 916529834,
+    "category": "Communication",
+    "rating": 5.0,
+    "description": "Minecraft is a top-rated app used globally for gaming.",
+    "features": [
+      "HD video",
+      "Live chat",
+      "Dark mode",
+      "Multi-language",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "brownanna",
+        "rating": 5,
+        "comment": "Onto mother mouth buy."
+      },
+      {
+        "user": "rperez",
+        "rating": 3,
+        "comment": "Court trade mouth fund American stage development."
+      },
+      {
+        "user": "kochjonathan",
+        "rating": 4,
+        "comment": "Firm keep build provide traditional whether benefit."
+      },
+      {
+        "user": "ehill",
+        "rating": 4,
+        "comment": "He carry whole type majority."
+      }
+    ]
+  },
+  {
+    "id": "app057",
+    "name": "Genshin Impact",
+    "developer": "Holmes, Cummings and Gutierrez",
+    "thumbnail": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc",
+    "banner": "https://i.ytimg.com/vi/qqnEjmnitgc/maxresdefault.jpg",
+    "downloads": 691084673,
+    "category": "Shopping",
+    "rating": 4.5,
+    "description": "Genshin Impact is a top-rated app used globally for gaming.",
+    "features": [
+      "Multi-language",
+      "Data backup",
+      "Cloud sync",
+      "Live chat",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "monicaolson",
+        "rating": 3,
+        "comment": "Lawyer job available fast around."
+      },
+      {
+        "user": "donaldsonchelsea",
+        "rating": 3,
+        "comment": "Pretty wide could only environment account history."
+      },
+      {
+        "user": "maryhayes",
+        "rating": 4,
+        "comment": "End will improve week watch fund save summer."
+      },
+      {
+        "user": "ganderson",
+        "rating": 5,
+        "comment": "Safe deep something but debate traditional."
+      }
+    ]
+  },
+  {
+    "id": "app058",
+    "name": "Zomato",
+    "developer": "Hunter, Walter and Boone",
+    "thumbnail": "https://play-lh.googleusercontent.com/ixPkPHkzd8VD0HbmCL1n5PKYi3tWn8hGpRjeP6lutuFWZ6VpXUePGa9ZHcP6f_99bDA=s256-rw",
+    "banner": "https://www.equentis.com/blog/wp-content/uploads/2024/06/Story-of-The-Zomato-Storytelling-00-01.jpg",
+    "downloads": 842391654,
+    "category": "Video Players",
+    "rating": 3.7,
+    "description": "Zomato is a top-rated app used globally for entertainment.",
+    "features": [
+      "Multi-language",
+      "Live chat",
+      "Offline mode",
+      "Cloud sync",
+      "Interactive UI"
+    ],
+    "reviews": [
+      {
+        "user": "cjackson",
+        "rating": 4,
+        "comment": "Energy nothing blood view."
+      },
+      {
+        "user": "richard56",
+        "rating": 4,
+        "comment": "Yourself message green company hair certainly."
+      },
+      {
+        "user": "michelle61",
+        "rating": 5,
+        "comment": "Possible usually rule character."
+      },
+      {
+        "user": "clarkrebecca",
+        "rating": 4,
+        "comment": "Reflect guess itself describe price first."
+      },
+      {
+        "user": "thomaspayne",
+        "rating": 4,
+        "comment": "Color early sister Mr east."
+      },
+      {
+        "user": "brooksdana",
+        "rating": 4,
+        "comment": "Growth another together security home sure its."
+      },
+      {
+        "user": "xdavis",
+        "rating": 4,
+        "comment": "Watch still practice suddenly."
+      }
+    ]
+  },
+  {
+    "id": "app059",
+    "name": "Swiggy",
+    "developer": "Martin Inc",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk50Ut-wJKwbca3BTPssDUl_fqnsEE_D2tcw&s",
+    "banner": "https://images.moneycontrol.com/static-mcnews/2018/02/Swiggy.jpg?impolicy=website&width=1600&height=900",
+    "downloads": 434648319,
+    "category": "Education",
+    "rating": 4.0,
+    "description": "Swiggy is a top-rated app used globally for productivity.",
+    "features": [
+      "HD video",
+      "Cloud sync",
+      "Push notifications",
+      "Dark mode"
+    ],
+    "reviews": [
+      {
+        "user": "masonrobert",
+        "rating": 3,
+        "comment": "Score catch decide good."
+      },
+      {
+        "user": "patriciamendez",
+        "rating": 4,
+        "comment": "Successful live identify reflect."
+      },
+      {
+        "user": "robertcampos",
+        "rating": 4,
+        "comment": "Eat still others any pull."
+      },
+      {
+        "user": "flynnjason",
+        "rating": 3,
+        "comment": "Lawyer movie my whole stage this age."
+      },
+      {
+        "user": "thomas76",
+        "rating": 5,
+        "comment": "Military shoulder fill until bag pretty sit."
+      }
+    ]
+  },
+  {
+    "id": "app060",
+    "name": "Flipkart",
+    "developer": "Thomas-Patel",
+    "thumbnail": "https://media.licdn.com/dms/image/v2/D560BAQEb2s2nxdNpXQ/company-logo_200_200/B56ZUT2sHrGoAM-/0/1739794858896/flipkart_logo?e=2147483647&v=beta&t=tMYbxj27etFIkemuKPVUSFb7HGl94cb6kkNxnHlMtW4",
+    "banner": "https://businessinspection.com.bd/wp-content/uploads/2021/05/Flipkart-Featured-1.jpg",
+    "downloads": 873987678,
+    "category": "Education",
+    "rating": 4.3,
+    "description": "Flipkart is a top-rated app used globally for gaming.",
+    "features": [
+      "Offline mode",
+      "Live chat",
+      "Dark mode",
+      "Interactive UI"
+    ],
+    "reviews": [
+      {
+        "user": "scottcalderon",
+        "rating": 5,
+        "comment": "Community himself adult student their resource probably ago."
+      },
+      {
+        "user": "tnovak",
+        "rating": 4,
+        "comment": "Their real any other election nearly federal accept."
+      },
+      {
+        "user": "jessica46",
+        "rating": 3,
+        "comment": "Your glass forward ready war mission."
+      },
+      {
+        "user": "norrislauren",
+        "rating": 5,
+        "comment": "Door voice shoulder."
+      }
+    ]
+  },
+  {
+    "id": "app061",
+    "name": "Snapdeal",
+    "developer": "Arias-Lewis",
+    "thumbnail": "https://images.sftcdn.net/images/t_app-icon-m/p/379d4c30-a4f9-11e6-ad27-00163ed833e7/1033677582/snapdeal-logo",
+    "banner": "https://asiatechdaily.com/wp-content/uploads/2021/09/snapdeal1.jpg",
+    "downloads": 951289106,
+    "category": "Music",
+    "rating": 4.0,
+    "description": "Snapdeal is a top-rated app used globally for learning.",
+    "features": [
+      "Multi-language",
+      "Push notifications",
+      "Interactive UI",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "laurengeorge",
+        "rating": 5,
+        "comment": "Per long hold walk officer."
+      },
+      {
+        "user": "clarksheila",
+        "rating": 3,
+        "comment": "Without house minute note drug only."
+      },
+      {
+        "user": "lisa39",
+        "rating": 4,
+        "comment": "War simply try any wonder company ground."
+      },
+      {
+        "user": "wileygloria",
+        "rating": 4,
+        "comment": "How coach indicate democratic."
+      },
+      {
+        "user": "vbray",
+        "rating": 4,
+        "comment": "Plan far chance major parent."
+      },
+      {
+        "user": "kelleykenneth",
+        "rating": 4,
+        "comment": "Bit day apply matter way seat shoulder."
+      },
+      {
+        "user": "russellsamantha",
+        "rating": 4,
+        "comment": "Ever marriage onto price."
+      }
+    ]
+  },
+  {
+    "id": "app062",
+    "name": "IRCTC Rail",
+    "developer": "Romero and Sons",
+    "thumbnail": "https://play-lh.googleusercontent.com/pOhc9TAENgN1MXuU42s6tiT7KCJ-PSl7zoSH9r_AfIx-rkfIOHNvJHanJPw-HBa09w",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsNUk1Pl6U6qp_7SEo11ZvNS1SbeJUlMYZw&s",
+    "downloads": 690649292,
+    "category": "Communication",
+    "rating": 4.1,
+    "description": "IRCTC Rail is a top-rated app used globally for gaming.",
+    "features": [
+      "Push notifications",
+      "HD video",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "tara00",
+        "rating": 4,
+        "comment": "Cover type claim rock attention."
+      },
+      {
+        "user": "derrick71",
+        "rating": 5,
+        "comment": "Thank authority enter family."
+      },
+      {
+        "user": "elaine57",
+        "rating": 5,
+        "comment": "Base myself between spring prepare note."
+      },
+      {
+        "user": "masonjason",
+        "rating": 4,
+        "comment": "I other house man plant something class surface."
+      },
+      {
+        "user": "gonzalezlawrence",
+        "rating": 3,
+        "comment": "Should wide street feeling reduce."
+      },
+      {
+        "user": "gabrielmoore",
+        "rating": 5,
+        "comment": "Responsibility space enter issue investment great share."
+      }
+    ]
+  },
+  {
+    "id": "app063",
+    "name": "MakeMyTrip",
+    "developer": "Nunez-Freeman",
+    "thumbnail": "https://proxyelite.info/wp-content/uploads/2024/01/makemytrip-logo-600x600.png",
+    "banner": "https://www.tripcrafters.com/agent/agent_photos/34443-1663582559.jpg",
+    "downloads": 857781610,
+    "category": "Social",
+    "rating": 4.9,
+    "description": "MakeMyTrip is a top-rated app used globally for gaming.",
+    "features": [
+      "Push notifications",
+      "HD video",
+      "Cloud sync",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "christine02",
+        "rating": 5,
+        "comment": "Win manage arm factor."
+      },
+      {
+        "user": "lisaperez",
+        "rating": 4,
+        "comment": "Than war recognize three."
+      },
+      {
+        "user": "eblack",
+        "rating": 5,
+        "comment": "House Democrat forget purpose certainly eight dog."
+      },
+      {
+        "user": "garrettivan",
+        "rating": 3,
+        "comment": "Letter for tend but computer service."
+      },
+      {
+        "user": "dustinwilliams",
+        "rating": 4,
+        "comment": "Exist sea bill party behavior goal response."
+      },
+      {
+        "user": "keith36",
+        "rating": 4,
+        "comment": "Finish right house attack."
+      },
+      {
+        "user": "kwest",
+        "rating": 5,
+        "comment": "Play world theory risk determine large seven."
+      }
+    ]
+  },
+  {
+    "id": "app064",
+    "name": "Booking.com",
+    "developer": "Nguyen, Gray and Mercer",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVqpq-6zK3cs6d6dFWCxF4QXs1AjqVuKwsmQ&s",
+    "banner": "https://content.presspage.com/uploads/685/1920_social_cover_01.jpg?10000",
+    "downloads": 421406707,
+    "category": "Education",
+    "rating": 4.9,
+    "description": "Booking.com is a top-rated app used globally for learning.",
+    "features": [
+      "Interactive UI",
+      "Cloud sync",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "edavila",
+        "rating": 4,
+        "comment": "Daughter effort race situation specific could send."
+      },
+      {
+        "user": "tinabenitez",
+        "rating": 3,
+        "comment": "Bad industry hot week agency hotel computer."
+      },
+      {
+        "user": "josephryan",
+        "rating": 3,
+        "comment": "Remain speak carry film oil may through."
+      },
+      {
+        "user": "williamsseth",
+        "rating": 3,
+        "comment": "Moment opportunity organization price value then need east."
+      },
+      {
+        "user": "robert12",
+        "rating": 4,
+        "comment": "Image prove easy knowledge mention various rate interview."
+      }
+    ]
+  },
+  {
+    "id": "app065",
+    "name": "Hotstar",
+    "developer": "Hoover-Brown",
+    "thumbnail": "https://img.utdstc.com/icon/1e9/d58/1e9d587ba908ee1562404fc48f3dd626ea7c47d06f858b4aaf85c7119d50d8e2:200",
+    "banner": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/movies-poster-cover-800x400-1594731257632.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+    "downloads": 83586176,
+    "category": "Health & Fitness",
+    "rating": 4.0,
+    "description": "Hotstar is a top-rated app used globally for entertainment.",
+    "features": [
+      "HD video",
+      "Live chat",
+      "Multi-language"
+    ],
+    "reviews": [
+      {
+        "user": "jessicadavis",
+        "rating": 3,
+        "comment": "News middle on easy maintain phone give."
+      },
+      {
+        "user": "adampatel",
+        "rating": 3,
+        "comment": "Force total grow president inside work people sure."
+      },
+      {
+        "user": "sophiamartin",
+        "rating": 5,
+        "comment": "Bad national music heavy leg."
+      },
+      {
+        "user": "amy74",
+        "rating": 3,
+        "comment": "Because rich beautiful fill."
+      },
+      {
+        "user": "valenzuelakristen",
+        "rating": 3,
+        "comment": "Ahead on word leader teacher safe."
+      }
+    ]
+  },
+  {
+    "id": "app066",
+    "name": "Truecaller",
+    "developer": "Wilson, Reese and Porter",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0lJb5nR_P78H-KY_9dijC59W14Xdvj8v8w&s",
+    "banner": "https://play-lh.googleusercontent.com/l43mYjsqS7RKg4-vZM1qANOi7SPVOlJcJYKgeXsBUW--cJ4p34fY0OFd3zi9HYVb0uk=w3840-h2160-rw",
+    "downloads": 745309235,
+    "category": "Productivity",
+    "rating": 4.1,
+    "description": "Truecaller is a top-rated app used globally for learning.",
+    "features": [
+      "Dark mode",
+      "Multi-language",
+      "Offline mode",
+      "Interactive UI",
+      "Live chat"
+    ],
+    "reviews": [
+      {
+        "user": "parkjames",
+        "rating": 3,
+        "comment": "Effort move news."
+      },
+      {
+        "user": "trevortaylor",
+        "rating": 4,
+        "comment": "Wall like arm prove great citizen vote as."
+      },
+      {
+        "user": "pamela96",
+        "rating": 3,
+        "comment": "Reveal hair news board message work."
+      },
+      {
+        "user": "hdelacruz",
+        "rating": 4,
+        "comment": "Within report main local up."
+      },
+      {
+        "user": "davisdeborah",
+        "rating": 3,
+        "comment": "Everything technology save leader capital bank."
+      }
+    ]
+  },
+  {
+    "id": "app067",
+    "name": "CamScanner",
+    "developer": "Terry, Nelson and Price",
+    "thumbnail": "https://static.apkmody.com/play-lh.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA=s180-rw",
+    "banner": "https://static.toiimg.com/thumb/msid-75409392,width-1280,height-720,imgsize-12425,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "downloads": 135825495,
+    "category": "Music",
+    "rating": 4.8,
+    "description": "CamScanner is a top-rated app used globally for entertainment.",
+    "features": [
+      "Push notifications",
+      "HD video",
+      "Data backup",
+      "Interactive UI"
+    ],
+    "reviews": [
+      {
+        "user": "coopercatherine",
+        "rating": 3,
+        "comment": "Finish born lawyer success resource television work."
+      },
+      {
+        "user": "erika66",
+        "rating": 5,
+        "comment": "Smile author account teach number carry."
+      },
+      {
+        "user": "donald01",
+        "rating": 3,
+        "comment": "World these visit add."
+      },
+      {
+        "user": "robertstaylor",
+        "rating": 5,
+        "comment": "Feeling garden social technology new skill hotel up."
+      },
+      {
+        "user": "boothheather",
+        "rating": 4,
+        "comment": "Place lose activity the huge foot."
+      },
+      {
+        "user": "tiffanyfriedman",
+        "rating": 4,
+        "comment": "Kind western start store message fall."
+      },
+      {
+        "user": "ricardosanchez",
+        "rating": 5,
+        "comment": "Maybe poor town space."
+      }
+    ]
+  },
+  {
+    "id": "app068",
+    "name": "Inshorts",
+    "developer": "Weber-Maldonado",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0BTdRVst-vLq5g4xB_-iBTIRFOJ4QMYM8A&s",
+    "banner": "https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2024/04/Inshorts-Pivot-social.png",
+    "downloads": 932426719,
+    "category": "Photography",
+    "rating": 4.9,
+    "description": "Inshorts is a top-rated app used globally for learning.",
+    "features": [
+      "Cloud sync",
+      "HD video",
+      "Push notifications",
+      "Multi-language",
+      "Secure login"
+    ],
+    "reviews": [
+      {
+        "user": "rfisher",
+        "rating": 3,
+        "comment": "Inside boy go specific business short."
+      },
+      {
+        "user": "abbottjames",
+        "rating": 5,
+        "comment": "Main ahead mean community."
+      },
+      {
+        "user": "villarrealalisha",
+        "rating": 3,
+        "comment": "Six hope reality his hotel per."
+      },
+      {
+        "user": "holly31",
+        "rating": 5,
+        "comment": "Institution make quickly decade price argue turn describe."
+      },
+      {
+        "user": "terrilove",
+        "rating": 4,
+        "comment": "Name resource themselves range audience moment off."
+      }
+    ]
+  }
+]

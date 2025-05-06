@@ -10,7 +10,11 @@ const Router = createBrowserRouter([
         path: '/',
         Component:Root,
         children: [
-            {index:'/home', Component:Home},
+            {
+            index:true,
+             loader: ()=>fetch("apps.json"),
+             Component:Home
+            },
             {path:'/*', element:<p>There is no page</p>}
         ]
     },
