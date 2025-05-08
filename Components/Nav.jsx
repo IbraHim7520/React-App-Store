@@ -22,6 +22,7 @@ const Nav = () => {
         console.log("Something went erong");
       })
   }
+  // /update-profile
   return (
     <div className=" navbar shadow-md">
       <div className='flex  mx-4 w-full md:mx-18 lg:mx-24'>
@@ -34,6 +35,9 @@ const Nav = () => {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
                   <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Apps</NavLink>
+                  {
+              user && <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/update-profile"} >Update Profile</NavLink>
+            }
                   <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/faq"} >FAQ</NavLink>
             </ul>
           </div>
@@ -46,7 +50,11 @@ const Nav = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu gap-5 text-xl font-semibold menu-horizontal px-1">
             <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Apps</NavLink>
+            {
+              user && <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/update-profile"} >Update Profile</NavLink>
+            }
             <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/faq"} >FAQ</NavLink>
+            
           </ul>
         </div>
         <div className="navbar-end gap-5">

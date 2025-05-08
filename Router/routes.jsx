@@ -7,6 +7,8 @@ import AppDetails from "../Pages/AppDetails"
 import AllApps from "../Pages/AllApp"
 import ErrorPage from "../Pages/ErrorPage"
 import Faq from "../Pages/Faq"
+import UpdateProfile from "../Pages/UpdateProfile";
+
 
 const Router = createBrowserRouter([
     {
@@ -20,7 +22,6 @@ const Router = createBrowserRouter([
         {path:'/app-apps', Component:AllApps},
         {path:'/app-details/:id',    
         Component:AppDetails},
-        {path:'/*', Component:ErrorPage},
         {path:"/all-apps",Component:AllApps},
         {path:"/faq", Component:Faq}
        ]
@@ -30,11 +31,15 @@ const Router = createBrowserRouter([
         Component:Login
     },
     {
+        path:"/update-profile",
+        Component:UpdateProfile
+    },
+    {
         path:'/user-signup',
         Component:Signup
     },
     {
-        path:"/*",
+        path:"*",
         Component:ErrorPage
     }
 ])

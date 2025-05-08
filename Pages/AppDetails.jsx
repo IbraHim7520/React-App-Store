@@ -49,16 +49,26 @@ const AppDetails = () => {
     }
     const handleReviewSubmit = (e)=>{
         e.preventDefault();
+        if (!loggedin){
+            toast("Please login to submit a review!")
+            return
+        }
+        
         const star = e.target.star.value;
         const review = e.target.review.value;
-        const newReview = {
-            "user":"Unknown",
-            "rating": star,
-            "comment":review
+        if (isNaN(star) || star < 0 || star > 5) {
+            toast("Rating must be a number between 0 and 5");
+          }else{
+            const newReview = {
+                "user":"Unknown",
+                "rating": star,
+                "comment":review
+            }
+            setReview(prevReviews => [...prevReviews, newReview]);
+            console.log(review)
+            e.target.reset();
         }
-        setReview(prevReviews => [...prevReviews, newReview]);
-        console.log(review)
-        e.target.reset();
+      
     }
     return (
         <div className='w-full'>
