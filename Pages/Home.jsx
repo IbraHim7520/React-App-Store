@@ -1,14 +1,20 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Banner from '../Components/Banner';
 import TrendingApp from '../Components/TrendingApp';
 import { NavLink, useLoaderData } from 'react-router';
 import secImg from "../assets/section-img.png"
+import CategoryApp from '../Components/CategoryApp';
 const Home = () => {
     const AppData = useLoaderData();
+    
+    useEffect(()=>{
+       
+    },[])
     return (
         <div className='p-20'>
             <Banner></Banner>
             <TrendingApp AppData={AppData}></TrendingApp>
+
             <section className='bg-base-200 p-8 mt-12 shadow-md'>
                 <div className='w-full grid grid-cols-1 justify-items-center  md:flex justify-center  items-center'>
                     <div className='md:w-2/4'>
@@ -22,6 +28,14 @@ const Home = () => {
                         <NavLink to={"/all-apps"} className='btn btn-primary px-12 mt-5'>Discover All Apps Now</NavLink>
                     </div>
                 </div>
+            </section>
+
+
+
+            <section className='p-8 mt-12'>
+            
+           <CategoryApp></CategoryApp>
+
             </section>
         </div>
     );

@@ -1,8 +1,22 @@
-import React from 'react';
+import React, { use, useState } from 'react';
 import { FaGithub, FaGoogle } from 'react-icons/fa';
-import { Form, Link } from 'react-router';
+import { Form, Link, useNavigate } from 'react-router';
+import { Context } from '../Authentication/Context';
 
 const Login = () => {
+	const navigate = useNavigate();
+	const [err, setErr] =  useState('');
+	const {userLogin} = use(Context)
+	const handleLogin = (e) =>{
+		e.preventDefault()
+		const email = e.target.email.value;
+		const password = e.target.password.value;
+		userLogin(email , password).then(success=>{
+			navigate('/')
+		}).catch(err=> {
+			setErr(err.message);
+		})
+	}
     return (
 		<div className="hero bg-base-200 min-h-screen">
 		<div className="hero-content flex-col lg:flex-row-reverse">
@@ -15,11 +29,11 @@ const Login = () => {
 		  </div>
 		  <div className="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
 			<div className="card-body">
-			  <Form className="fieldset">
+			  <Form onSubmit={(e)=>handleLogin(e)} className="fieldset">
 				<label className="label">Email</label>
-				<input type="email" className="input" placeholder="Email" />
+				<input required name='email' type="email" className="input" placeholder="Email" />
 				<label className="label">Password</label>
-				<input type="password" className="input" placeholder="Password" />
+				<input required name='password' type="password" className="input" placeholder="Password" />
 				<div><a className="link link-hover">Forgot password?</a></div>
 				<button type='submit' className="btn btn-primary mt-4">Login</button>
 			  </Form>
@@ -28,7 +42,7 @@ const Login = () => {
 				<FaGoogle size={25}></FaGoogle>
 				<FaGithub size={25}></FaGithub>
 			  </div>
-			  <h1 className='font-semibold text-black text-center'>Dont Have and Account? <Link className='link link-hover' to={'/user-signup'}>Register</Link> </h1>
+			  <h1 className='font-semibold text-black text-center'>Dont Have and Account? <Link className='link link-primary link-hover' to={'/user-signup'}>Register</Link> </h1>
 			</div>
 		  </div>
 		</div>

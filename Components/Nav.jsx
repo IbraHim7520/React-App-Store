@@ -1,9 +1,28 @@
-import React from 'react';
+import React, { use, useState } from 'react';
 import { IoLogIn } from 'react-icons/io5';
 import { NavLink } from 'react-router';
 import logo from "../assets/logo.png"
+import { onAuthStateChanged, signOut } from 'firebase/auth';
+import { auth } from '../firebase.init';
+import noUserImg from "../assets/no-user.jpg"
 
 const Nav = () => {
+  const [user, setUser] = useState(null);
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      setUser(user)
+    } else {
+      setUser(null)
+    }
+  })
+  const handleLogout = () => {
+    signOut(auth)
+      .then(succ => {
+        setUser(null)
+      }).catch(err => {
+        console.log("Something went erong");
+      })
+  }
   return (
     <div className=" navbar shadow-md">
       <div className='flex  mx-4 w-full md:mx-18 lg:mx-24'>
@@ -15,7 +34,7 @@ const Nav = () => {
             <ul
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-              <NavLink>Store</NavLink>
+              <NavLink>Apps</NavLink>
               <NavLink>My Profile</NavLink>
             </ul>
           </div>
@@ -27,13 +46,24 @@ const Nav = () => {
 
         <div className="navbar-center hidden lg:flex">
           <ul className="menu gap-5 text-xl font-semibold menu-horizontal px-1">
-            <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Store</NavLink>
+            <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Apps</NavLink>
             <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/user-profile"} >My Profile</NavLink>
+            <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/faq"} >FAQ</NavLink>
           </ul>
         </div>
-
         <div className="navbar-end gap-5">
-          <NavLink to={'/user-login'} className='btn btn-primary'>Login <IoLogIn size={25} /> </NavLink>
+          <div className='flex gap-5 items-center justify-center'>
+            {
+              user && <div className="avatar tooltip tooltip-bottom" data-tip={user.displayName} >
+                <div className="ring-primary ring-offset-base-100 w-10 rounded-full ring-2 ring-offset-2">
+                  <img src={user.photoURL} />
+                </div>
+              </div>
+            }
+            {
+              user ? <buton onClick={handleLogout} className='btn btn-primary'>Logout</buton> : <NavLink to={'/user-login'} className='btn btn-primary'>Login <IoLogIn size={25} /> </NavLink>
+            }
+          </div>
         </div>
       </div>
 

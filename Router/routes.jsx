@@ -7,6 +7,7 @@ import AppDetails from "../Pages/AppDetails"
 import UserProfile from "../Pages/UserProfile"
 import AllApps from "../Pages/AllApp"
 import ErrorPage from "../Pages/ErrorPage"
+import Faq from "../Pages/Faq"
 
 const Router = createBrowserRouter([
     {
@@ -22,7 +23,8 @@ const Router = createBrowserRouter([
         {path:'/app-details/:id',    
         Component:AppDetails},
         {path:'/*', Component:ErrorPage},
-        {path:"/all-apps",Component:AllApps}
+        {path:"/all-apps",Component:AllApps},
+        {path:"/faq", Component:Faq}
        ]
     },
     {

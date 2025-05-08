@@ -1,23 +1,31 @@
 import React, { useEffect, useState } from 'react';
 import AppCard from '../Components/AppCard';
+import { data } from 'react-router';
 
 const AllApp = () => {
+    const [allApps , setAllApps]= useState([]);
     const [Apps , setApps] = useState([]);
     const [appsCats, setAppsCat]= useState([]);
+    const [click, setCLick] = useState(0);
     useEffect(()=>{
-        fetch('apps.json').then(res=>res.json()).then(data=> setApps(data))
+        fetch('apps.json').then(res=>res.json()).then(data=> {setAllApps(data); setApps(data)} )
         fetch('category.json').then(res=>res.json()).then(cats=> setAppsCat(cats.categories))
     },[])
-    const handleCategoryClick = (category) =>{
-        const categoryApps = Apps.filter(apps=> apps.category===category)
-        setApps(categoryApps)
+    const handleCategoryClick = (index, e) =>{
+         setCLick(index)
+         const catName = e.target.innerText;
+         if (catName==='All'){
+            setApps(allApps)
+            return
+         }
+       const hh =  allApps.filter( apps=> apps.category==catName);
+       setApps(hh)
     }
     return (
         <div className=''>
            <div className='flex mt-5 grow-0 w-full justify-center gap-3 items-center'>
-                <button className='btn  btn-outline  btn-primary'>All</button>
                 {
-                appsCats.map(app=> <button onClick={()=> handleCategoryClick(app)} className='btn btn-outline btn-primary'>{app}</button>)
+                appsCats.map((app,index)=> <button key={index} onClick={(e)=> handleCategoryClick(index, e)} className={`btn ${click===index ? 'btn-primary' : 'btn-outline' }`} >{app}</button>)
                 }
            </div>
 
