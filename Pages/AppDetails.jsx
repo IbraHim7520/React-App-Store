@@ -1,16 +1,17 @@
 
 import { onAuthStateChanged } from 'firebase/auth';
-import { use, useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { FaDownload, FaStar } from 'react-icons/fa';
 import { NavLink, useParams } from 'react-router';
 import { auth } from '../firebase.init';
-import { tr } from 'framer-motion/client';
+
 import { toast, ToastContainer } from 'react-toastify';
 
 const AppDetails = () => {
 
     const [loggedin , setLoggedin] = useState(false);
     const [click, setClick]= useState(false);
+    const [review, setReview] = useState([]);
 
     onAuthStateChanged(auth, (user)=>{
         if(user){
@@ -26,10 +27,16 @@ const AppDetails = () => {
     const { id } = params;
 
     useEffect(() => {
-        fetch("/apps.json").then(ser_res => ser_res.json()).then(apps => SetApps(apps))
-        const Single_apps = Apps.find(app => app.id === id);
-        SingleApp(Single_apps);
-    }, [Apps, id])
+        fetch("/apps.json")
+          .then(res => res.json())
+          .then(apps => {
+            SetApps(apps);
+            const singleApp = apps.find(app => app.id === id);
+            SingleApp(singleApp);
+            setReview(singleApp?.reviews || []);
+          });
+      }, [id]);
+      
 
     const handleInstall = () =>{
         if (click){
@@ -39,8 +46,19 @@ const AppDetails = () => {
             toast('Install Successfully!')
             setClick(true)
         }
-           
-        
+    }
+    const handleReviewSubmit = (e)=>{
+        e.preventDefault();
+        const star = e.target.star.value;
+        const review = e.target.review.value;
+        const newReview = {
+            "user":"Unknown",
+            "rating": star,
+            "comment":review
+        }
+        setReview(prevReviews => [...prevReviews, newReview]);
+        console.log(review)
+        e.target.reset();
     }
     return (
         <div className='w-full'>
@@ -79,17 +97,20 @@ const AppDetails = () => {
                 <div className="flex mt-12 gap-4 w-full flex-col lg:flex-row">
                     <div className="card space-y-2 p-4 bg-base-300 rounded-box grid h-fit grow place-items-center">
                         {
-                            single?.reviews?.map(rev=>  <div className='bg-white p-3 w-full rounded-md' ><p className=' text-xl font-semibold'>{rev.comment}</p>  <p>Rating: ({rev.rating})</p>   <p>User: {rev.user}</p>    </div> )
+                            review?.map(rev=>  <div className='bg-white p-3 w-full rounded-md' ><p className=' text-xl font-semibold'>{rev.comment}</p>  <p>Rating: ({rev.rating})</p>   <p>User: {rev.user}</p>    </div> )
                         }
                     </div>
 
                     <div className="card bg-base-300 rounded-box grid h-fit grow p-4">
                         <h1 className='text-3xl font-bold'>Submit Your Review Here</h1>
-                        <from className="fieldset">
+
+                        <form onSubmit={(e)=>handleReviewSubmit(e)} className="fieldset">
+                        <legend className="fieldset-legend">Rating</legend>
+                        <input name='star' type="number" placeholder="Rating (1-5)" className="input" />
                             <legend className="fieldset-legend">Review</legend>
-                            <textarea className="textarea h-24" placeholder="Review"></textarea>
-                            <button className='btn btn-primary w-fit px-12 ' type='Submit'>Submit</button>
-                        </from>
+                            <textarea name='review' className="textarea h-24" placeholder="Review"></textarea>
+                            <button  className='btn btn-primary w-fit px-12 ' type='Submit'>Submit</button>
+                        </form>
                     </div>
                 </div>
 
