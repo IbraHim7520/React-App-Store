@@ -5,7 +5,7 @@ import { NavLink } from 'react-router';
 const AppCard = ({Apps}) => {
     const {id,name , rating , downloads , thumbnail} = Apps;
     return (
-        <div className='flex  items-center shadow w-72 h-36 bg-base-200'>
+        <NavLink to={`/app-details/${id}`} className='flex  items-center p-2 shadow w-72 h-36 bg-base-200'>
             <div className='w-2/4 flex items-center  h-full'>
                 <img src={thumbnail} className='object-cover' ></img>
             </div>
@@ -22,9 +22,9 @@ const AppCard = ({Apps}) => {
                 <p>{rating}</p>
             </div>
             </div>
-            <NavLink to={`/app-details/${id}`} className='btn btn-primary'>See Details</NavLink>
+         
             </div>
-        </div>
+        </NavLink>
     );
 };
 

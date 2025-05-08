@@ -2,11 +2,14 @@ import React, { use, useState } from 'react';
 import { FaGithub, FaGoogle } from 'react-icons/fa';
 import { Form, Link, useNavigate } from 'react-router';
 import { Context } from '../Authentication/Context';
+import { toast, ToastContainer } from 'react-toastify';
+import { GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
+import { auth } from '../firebase.init';
 
 const Login = () => {
 	const navigate = useNavigate();
-	const [err, setErr] =  useState('');
 	const {userLogin} = use(Context)
+	const proovider = new GoogleAuthProvider()
 	const handleLogin = (e) =>{
 		e.preventDefault()
 		const email = e.target.email.value;
@@ -14,11 +17,19 @@ const Login = () => {
 		userLogin(email , password).then(success=>{
 			navigate('/')
 		}).catch(err=> {
-			setErr(err.message);
+			toast(err.message);
+		})
+	}
+	const handleGoogleLogin = () =>{
+		signInWithPopup(auth, proovider).then(res=>{
+			navigate('/')
+		}).catch(err=>{
+			toast(err.message);
 		})
 	}
     return (
 		<div className="hero bg-base-200 min-h-screen">
+		<ToastContainer></ToastContainer>
 		<div className="hero-content flex-col lg:flex-row-reverse">
 		  <div className="text-center lg:text-left">
 			<h1 className="text-5xl font-bold">Login now!</h1>
@@ -39,8 +50,7 @@ const Login = () => {
 			  </Form>
 			  <h1 className='text-black text-center'>Or Continue with</h1>
 			  <div className='flex gap-3 justify-center items-center w-full'>
-				<FaGoogle size={25}></FaGoogle>
-				<FaGithub size={25}></FaGithub>
+				<FaGoogle onClick={handleGoogleLogin} size={25}></FaGoogle>
 			  </div>
 			  <h1 className='font-semibold text-black text-center'>Dont Have and Account? <Link className='link link-primary link-hover' to={'/user-signup'}>Register</Link> </h1>
 			</div>

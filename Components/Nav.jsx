@@ -4,7 +4,6 @@ import { NavLink } from 'react-router';
 import logo from "../assets/logo.png"
 import { onAuthStateChanged, signOut } from 'firebase/auth';
 import { auth } from '../firebase.init';
-import noUserImg from "../assets/no-user.jpg"
 
 const Nav = () => {
   const [user, setUser] = useState(null);
@@ -34,8 +33,8 @@ const Nav = () => {
             <ul
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-              <NavLink>Apps</NavLink>
-              <NavLink>My Profile</NavLink>
+                  <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Apps</NavLink>
+                  <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/faq"} >FAQ</NavLink>
             </ul>
           </div>
           <div className='flex gap-5 items-center'>
@@ -47,19 +46,20 @@ const Nav = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu gap-5 text-xl font-semibold menu-horizontal px-1">
             <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/"} >Apps</NavLink>
-            <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/user-profile"} >My Profile</NavLink>
             <NavLink className={({ isActive }) => isActive ? 'text-green-500' : 'text-black'} to={"/faq"} >FAQ</NavLink>
           </ul>
         </div>
         <div className="navbar-end gap-5">
           <div className='flex gap-5 items-center justify-center'>
             {
+             
               user && <div className="avatar tooltip tooltip-bottom" data-tip={user.displayName} >
                 <div className="ring-primary ring-offset-base-100 w-10 rounded-full ring-2 ring-offset-2">
                   <img src={user.photoURL} />
                 </div>
               </div>
             }
+            { console.log(user)}
             {
               user ? <buton onClick={handleLogout} className='btn btn-primary'>Logout</buton> : <NavLink to={'/user-login'} className='btn btn-primary'>Login <IoLogIn size={25} /> </NavLink>
             }

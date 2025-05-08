@@ -1,9 +1,25 @@
 
-import { useEffect, useState } from 'react';
+import { onAuthStateChanged } from 'firebase/auth';
+import { use, useEffect, useState } from 'react';
 import { FaDownload, FaStar } from 'react-icons/fa';
-import { useParams } from 'react-router';
+import { NavLink, useParams } from 'react-router';
+import { auth } from '../firebase.init';
+import { tr } from 'framer-motion/client';
+import { toast, ToastContainer } from 'react-toastify';
 
 const AppDetails = () => {
+
+    const [loggedin , setLoggedin] = useState(false);
+    const [click, setClick]= useState(false);
+
+    onAuthStateChanged(auth, (user)=>{
+        if(user){
+            setLoggedin(true)
+        }else{
+            setLoggedin(false)
+        }
+    })
+
     const [Apps, SetApps] = useState([]);
     const [single, SingleApp] = useState({})
     const params = useParams();
@@ -15,9 +31,20 @@ const AppDetails = () => {
         SingleApp(Single_apps);
     }, [Apps, id])
 
-
+    const handleInstall = () =>{
+        if (click){
+            setClick(false)
+            toast('Uninstall Successfully!')
+        }else{
+            toast('Install Successfully!')
+            setClick(true)
+        }
+           
+        
+    }
     return (
         <div className='w-full'>
+        <ToastContainer></ToastContainer>
             <div className='containe md:p-12 shadow mx-auto w-full'>
                 <img src={single?.banner} className='md:w-96 w-full mx-auto h-full'></img>
             </div>
@@ -32,7 +59,9 @@ const AppDetails = () => {
                         <p className='bg-amber-200 px-2 rounded'>{single?.category}</p>
                         <div className='flex items-center gap-1'>  <FaStar></FaStar> <p> ({single?.rating})</p></div>
                     </div>
-                    <button className='btn btn-primary px-12 mt-8'>Install</button>
+                    {
+                        loggedin ? <button onClick={handleInstall} className='btn btn-primary px-12 mt-8'>{click ? "Unstall" : "Install" }</button> : <NavLink to={"/user-login"} className='btn btn-primary px-12 mt-8'>Install</NavLink>
+                    }
                 </div>
             </div>
 

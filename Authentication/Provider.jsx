@@ -13,6 +13,7 @@ const Provider = ({children}) => {
         return signInWithEmailAndPassword(auth, email , pass)
     }
 
+
     const Info = {
         userSignup,
         userLogin

@@ -14,7 +14,8 @@ const TrendingApp = ({AppData}) => {
     }
     useEffect( ()=>{
         const trendingApp = AppData.filter(app=> app.rating>4.5);
-        const slicedApp = trendingApp.slice(0,8);
+        const sortedApps = trendingApp.sort( (a,b) => b.rating - a.rating )
+        const slicedApp = sortedApps.slice(0,8);
         setApps(slicedApp)
         if (click){
             setApps(trendingApp)
