@@ -1,12 +1,54 @@
-# React + Vite
+# 📱 AppNest — React App Store Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AppNest is a modern app showcase platform built using React. It features a responsive design, smooth navigation, Firebase authentication, and beautiful UI components with DaisyUI and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Overview
 
-## Expanding the ESLint configuration
+**AppNest** allows users to browse different apps, view their details, and experience a smooth user interface. The project includes:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home page with featured apps
+- App detail pages
+- User authentication (Login/Signup)
+- Protected routes
+- Responsive design
+
+---
+
+## 🛠️ Technologies Used
+
+- **React JS**
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+- **DaisyUI**
+- **Firebase (Authentication & Hosting)**
+
+---
+
+## 📦 Dependencies
+
+- `react-router-dom`
+- `tailwindcss`
+- `daisyui`
+- `react-icons`
+- `react-toastify`
+
+---
+
+## 🧑‍💻 How to Run This Project Locally
+
+Follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/appnest.git
+2. **Change Directory**
+   cd appnest
+3. **Install Dependecies**
+   npm install
+4. **Run**
+   npm run dev
+
+## Live Link:
